@@ -6,7 +6,7 @@
 
 1.
 2.
-3. Juan Jimenez: React - what and why?
+3. Juan - React - what and why?
 4.
 5.
 6.
