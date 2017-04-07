@@ -71,7 +71,7 @@
 
 3. Submit a Pull Request to this repository, titled like so: `FirstName LastName: Title of Talk`
 
-	* Note: We will be reviewing time slots/topics based on when pull requests are submitted. *You may not see that a time slot/topic has been taken if we have not yet merged a pull request to master.*
+	* Note: We review submissions based on when pull requests are submitted. *You may not see that a preferred place in line and/or topic has been taken if we have not yet merged a pull request to master.*
 
 4. At some point before the day of your lightning talk, you'll need to touch base with your anchor to run through your content. **You** are responsible for reaching out to schedule this. It is not required to physically meet (unless you'd like) - An outline of your talk via Slack is sufficient for approval.
  
