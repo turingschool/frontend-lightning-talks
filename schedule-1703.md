@@ -11,7 +11,7 @@
 5. Cole Worsley - React - what and why?
 6. Kristi - Front End Hip - how to stay in the know on all the things
 7. Hector Sanchez: Linters, what, why, how, types?
-8.
+8. Christie Lynam - SVG's: All about them, how to use them, when to use them
 9. Tyler Garner: Media Queries screens + beyond
 10. Ciara Bujanos - HTML Canvas
 11. Lindsay Parker: Web scrapers - the what, the why, the how
