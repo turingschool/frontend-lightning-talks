@@ -19,7 +19,7 @@
 13. JC - Pairing approaches - all the types and pros/cons
 14. Dave - ES6
 15. Shayla Richard-Developing "Developer Identity"
-16.
+16. Evan Miller - What is this VIM you speak of?
 17.
 18.
 19.
