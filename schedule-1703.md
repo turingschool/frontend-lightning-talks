@@ -4,7 +4,7 @@
 
 -----------------------------------------
 
-1.George Goering: Algorithms or die - top algorithms programmers should know
+1. George Goering: Algorithms or die - top algorithms programmers should know
 2.
 3. Juan - React - what and why?
 4.
