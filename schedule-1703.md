@@ -12,14 +12,17 @@
 3. Juan - React - what and why?
 4.
 5.
-6..Ralph Burnette: SVGs - all about them, how to use them, when to use them
+6.
 7.
 8. Dave - ES6
+6.
+7. Hector Sanchez: Linters, what, why, how, types?
+8.
 9.
 11. Lindsay Parker: Web scrapers - the what, the why, the how
 12.
 13.
-14.
+14.Ralph Burnette: SVGs - all about them, how to use them, when to use them
 15.
 16.
 17.
