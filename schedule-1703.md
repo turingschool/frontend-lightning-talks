@@ -1,4 +1,6 @@
-# 1703 Lightning Talks: Thursday, April 13
+## 1703 Lightning Talks
+## Thursday, April 13
+## 1:00 PM - 4:00 PM
 
 1.
 2.
