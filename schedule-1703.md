@@ -10,7 +10,7 @@
 4.
 5.
 6.
-7.
+7. Hector Sanchez: Linters, what, why, how, types?
 8.
 9.
 11.
