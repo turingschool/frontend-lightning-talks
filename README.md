@@ -61,12 +61,12 @@
 ### How-To
 
 1. Fork this repository
-2. Edit the `schedule-1703.md` file by inserting your name and topic into your preferred time slot. For example:
+2. Edit the `schedule-1703.md` file by inserting your name and topic into your preferred spot in line. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation per the line order of the schedule. 
 
 	```
-	* 1:00: 
-	* 1:05: Penelope - History of Women in Tech
-	* 1:10: 
+	1. 
+	2. Penelope - History of Women in Tech
+	3.  
 	```
 
 3. Submit a Pull Request to this repository.
