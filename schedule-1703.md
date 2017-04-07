@@ -18,9 +18,8 @@
 12. James - Client Side Security
 13. JC - Pairing approaches - all the types and pros/cons
 14. Dave - ES6
-15.
+15. Shayla Richard-Developing "Developer Identity"
 16.
 17.
 18.
 19.
-
