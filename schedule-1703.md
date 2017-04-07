@@ -6,7 +6,7 @@
 
 1.
 2.
-3. Evan MIller - Algorithms or die
+3. Evan MIller - D3
 4.
 5.
 6.
