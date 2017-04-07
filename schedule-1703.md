@@ -10,7 +10,7 @@
 4.
 5.
 6.
-7.
+7. Breaking the problem down + best pseudo coding practices or Client side security + hacking
 8.
 9.
 11.
@@ -23,4 +23,3 @@
 18.
 19.
 20.
-
