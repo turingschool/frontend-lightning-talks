@@ -8,7 +8,7 @@
 2. Joe - Breaking the problem down + best pseudo coding practices
 3. Juan - React - what and why?
 4. Sasha Dunbar- Javascript- closures
-5. Cole Worsley - React - what and why?
+5. Cole Worsley - D3
 6. Kristi - Front End Hip - how to stay in the know on all the things
 7. Hector Sanchez: Linters, what, why, how, types?
 8. Christie Lynam - SVG's: All about them, how to use them, when to use them
