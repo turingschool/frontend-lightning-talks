@@ -9,7 +9,7 @@
 3. Juan - React - what and why?
 4. Sasha Dunbar- Javascript- closures
 5. Cole Worsley - React - what and why?
-6.
+6. Kristi - Front End Hip - how to stay in the know on all the things
 7. Hector Sanchez: Linters, what, why, how, types?
 8.
 9.
