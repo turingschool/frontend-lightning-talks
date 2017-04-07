@@ -7,7 +7,7 @@
 1.
 2.
 3.
-4.
+4. Sasha Dunbar- Javascript- closures
 5.
 6.
 7.
