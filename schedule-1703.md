@@ -5,7 +5,7 @@
 -----------------------------------------
 
 1. George Goering: Algorithms or die - top algorithms programmers should know
-2. Joe - Breaking the problem down + best pseudo coding practices or Client side security + hacking
+2. Joe - Breaking the problem down + best pseudo coding practices
 3. Juan - React - what and why?
 4. Sasha Dunbar- Javascript- closures
 5. Cole Worsley - React - what and why?
