@@ -12,10 +12,10 @@
 6.
 7.
 8.
-9. JC - Pairing approaches - all the types and pros/cons
+9.
 11.
 12.
-13.
+13. JC - Pairing approaches - all the types and pros/cons
 14.
 15.
 16.
