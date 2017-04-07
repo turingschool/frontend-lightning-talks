@@ -13,7 +13,7 @@
 7. Hector Sanchez: Linters, what, why, how, types?
 8.
 9. Tyler Garner: Media Queries screens + beyond
-10.
+10. Ciara Bujanos - HTML Canvas
 11. Lindsay Parker: Web scrapers - the what, the why, the how
 12. James - Client Side Security
 13.
