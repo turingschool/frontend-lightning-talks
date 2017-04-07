@@ -12,7 +12,7 @@
 6.
 7.
 8.
-9.
+9. Tyler Garner: Media Queries screens + beyond
 11.
 12.
 13.
