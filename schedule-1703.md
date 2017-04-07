@@ -6,7 +6,7 @@
 
 1.
 2.
-3.
+3. Christie Lynam - SVG's: All about them, how to use them, when to use them
 4.
 5.
 6.
