@@ -16,7 +16,7 @@
 10. Ciara Bujanos - HTML Canvas
 11. Lindsay Parker: Web scrapers - the what, the why, the how
 12. James - Client Side Security
-13.
+13. JC - Pairing approaches - all the types and pros/cons
 14.
 15.
 16.
