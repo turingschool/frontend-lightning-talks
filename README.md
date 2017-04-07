@@ -1,4 +1,4 @@
-# Lightning Talks
+# Lightning Talks :zap:
 
 ### Overview
 * Everyone in Module 1 is required to give a lightning talk.
