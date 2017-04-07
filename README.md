@@ -1,6 +1,4 @@
-## Lightning Talks at Turing 
-
----
+# Lightning Talks
 
 ### Overview
 * Everyone in Module 1 is required to give a lightning talk.
