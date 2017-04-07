@@ -10,8 +10,8 @@
 4.
 5.
 6.
-7.
-8. Dave - ES6
+7. Hector Sanchez: Linters, what, why, how, types?
+8.
 9.
 11. Lindsay Parker: Web scrapers - the what, the why, the how
 12.
