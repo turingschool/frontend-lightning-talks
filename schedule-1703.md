@@ -4,16 +4,16 @@
 
 -----------------------------------------
 
-1. 
+1. George Goering: Algorithms or die - top algorithms programmers should know
 2.
-3.
+3. Juan - React - what and why?
 4.
 5. Cole Worsley - React - what and why?
 6.
-7.
+7. Hector Sanchez: Linters, what, why, how, types?
 8.
 9.
-11.
+11. Lindsay Parker: Web scrapers - the what, the why, the how
 12.
 13.
 14.
