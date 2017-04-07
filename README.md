@@ -58,7 +58,7 @@
 
 ---
 
-### How-To
+### How To
 
 1. Fork this repository
 2. Edit the `schedule-1703.md` file by inserting your name and topic into your preferred spot in line. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation per the line order of the schedule. 
@@ -69,7 +69,7 @@
 	3.  
 	```
 
-3. Submit a Pull Request to this repository.
+3. Submit a Pull Request to this repository, titled like so: `FirstName LastName: Title of Talk`
 
 	* Note: We will be reviewing time slots/topics based on when pull requests are submitted. *You may not see that a time slot/topic has been taken if we have not yet merged a pull request to master.*
 
