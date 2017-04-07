@@ -14,7 +14,7 @@
 8.
 9.
 11. Lindsay Parker: Web scrapers - the what, the why, the how
-12.
+12. James - Client Side Security
 13.
 14.
 15.
