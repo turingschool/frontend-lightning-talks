@@ -17,7 +17,7 @@
 11. Lindsay Parker: Web scrapers - the what, the why, the how
 12. James - Client Side Security
 13. JC - Pairing approaches - all the types and pros/cons
-14.
+14. Dave - ES6
 15.
 16.
 17.
