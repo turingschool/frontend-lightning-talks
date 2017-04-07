@@ -4,17 +4,18 @@
 
 -----------------------------------------
 
-1.
+1. George Goering: Algorithms or die - top algorithms programmers should know
 2.
-3.
+3. Juan - React - what and why?
 4.
 5.
 6.
-7.
+7. Hector Sanchez: Linters, what, why, how, types?
 8.
 9.
-11.
-12. Jason Lucas  - CSS units of measure
+10.
+11. Lindsay Parker: Web scrapers - the what, the why, the how
+12.. Jason Lucas  - CSS units of measure>>>>>>> master
 13.
 14.
 15.
