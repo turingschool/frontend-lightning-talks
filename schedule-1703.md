@@ -13,7 +13,7 @@
 7.
 8.
 9. JC - Pairing approaches - all the types and pros/cons
-11. Lindsay Parker: Web scrapers - the what, the why, the how
+11.
 12.
 13.
 14.
