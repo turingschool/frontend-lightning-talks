@@ -1,6 +1,7 @@
 # Lightning Talks :zap:
 
 ### Overview
+
 * Everyone in Module 1 is required to give a lightning talk.
 * A lightning talk is 5 minutes long.
 * Presentations are in front of the class.
@@ -56,7 +57,7 @@
 
 ---
 
-### How To
+### How To :muscle:
 
 1. Fork this repository 
 2. Edit the `schedule-1703.md` file by inserting your name and topic into your preferred spot in line. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation per the line order of the schedule. 
