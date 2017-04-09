@@ -15,12 +15,10 @@
 10. Ciara Bujanos - HTML Canvas
 11. Lindsay Parker: Web scrapers - the what, the why, the how
 12. James - Client Side Security
-13.Jason Lucas: CSS relative units of measure: ems, rems, percentages, viewport measures
-14.
-13. JC - Pairing approaches - all the types and pros/cons
-14. Dave - ES6
-15. Shayla Richard-Developing "Developer Identity"
-16. Evan Miller - What is this VIM you speak of?
-17. Ralph Burnette Hacking the FE interview
-18.
+13. Jason Lucas: CSS relative units of measure: ems, rems, percentages, viewport measures
+14. JC - Pairing approaches - all the types and pros/cons
+15. Dave - ES6
+16. Shayla Richard-Developing "Developer Identity"
+17. Evan Miller - What is this VIM you speak of?
+18. Ralph Burnette Hacking the FE interview
 19.
