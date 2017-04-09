@@ -3,7 +3,6 @@
 #### 1:00 PM - 4:00 PM
 
 -----------------------------------------
-
 1. George Goering: Algorithms or die - top algorithms programmers should know
 2. Joe - Breaking the problem down + best pseudo coding practices
 3. Juan - React - what and why?
@@ -16,10 +15,12 @@
 10. Ciara Bujanos - HTML Canvas
 11. Lindsay Parker: Web scrapers - the what, the why, the how
 12. James - Client Side Security
+13.
+14.
 13. JC - Pairing approaches - all the types and pros/cons
 14. Dave - ES6
 15. Shayla Richard-Developing "Developer Identity"
 16. Evan Miller - What is this VIM you speak of?
-17.
+17. Ralph Burnette Hacking the FE interview
 18.
 19.
