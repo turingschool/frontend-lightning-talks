@@ -21,4 +21,4 @@
 16. Shayla Richard-Developing "Developer Identity"
 17. Evan Miller - What is this VIM you speak of?
 18. Ralph Burnette Hacking the FE interview
-19.
+19. Nik Bornemeier:  CSS Styleguides
