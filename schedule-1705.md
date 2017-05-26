@@ -3,4 +3,6 @@
 #### 1:00 PM - 4:00 PM
 
 -----------------------------------------
-1. John Doe - CSS Animations
+1. David Ryan - Blockchain
+                Front end hip
+                react
