@@ -4,3 +4,4 @@
 
 -----------------------------------------
 1. John Doe - CSS Animations
+2. Christie Lynam - JavaScript Closures
