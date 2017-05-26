@@ -5,4 +5,4 @@
 -----------------------------------------
 1. John Doe - CSS Animations
 2. David Becker - Algorithms 
-3. CSS relative units of measure: ems, rems, percentages, viewport measures
+3. Tyler Hevia - CSS relative units of measure: ems, rems, percentages, viewport measures
