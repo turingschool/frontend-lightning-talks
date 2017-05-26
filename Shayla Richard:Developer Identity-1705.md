@@ -4,3 +4,6 @@
 
 -----------------------------------------
 1. John Doe - CSS Animations
+
+
+4. Shayla Richard- Developer Identity
