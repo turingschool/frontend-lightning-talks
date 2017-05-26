@@ -5,3 +5,4 @@
 -----------------------------------------
 1. John Doe - CSS Animations
 2. David Becker - Algorithms 
+7. Margo Schaedel - Front End Hip - how to stay in the know on ALL the things
