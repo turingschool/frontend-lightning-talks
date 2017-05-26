@@ -4,4 +4,5 @@
 
 -----------------------------------------
 1. John Doe - CSS Animations
-2. David Becker - Algorithms 
+2. David Becker - Algorithms
+3. Nick Svetnicka - Quit SLACKing Off
