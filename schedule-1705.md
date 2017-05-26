@@ -5,3 +5,4 @@
 -----------------------------------------
 1. John Doe - CSS Animations
 2. David Becker - Algorithms 
+3. Shayla Richard -Developer Identity
