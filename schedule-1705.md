@@ -4,4 +4,5 @@
 
 -----------------------------------------
 1. John Doe - CSS Animations
-2. David Becker - Algorithms 
+2. David Becker - Algorithms
+3. Ralph Burnette- Accessibility do’s and don’ts and/or deep dive
