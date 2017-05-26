@@ -57,14 +57,14 @@
 
 ---
 
-### How To :muscle:
+### How To
 
 1. Fork this repository 
 2. Edit the `schedule-1703.md` file by inserting your name and topic into your preferred spot in line. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation per the line order of the schedule. 
 
 	```
-	1. 
-	2. Penelope - History of Women in Tech
+	1. Penelope - History of Women In Tech
+	2. 
 	3.  
 	```
 
@@ -74,3 +74,8 @@
 
 4. At some point before the day of your lightning talk, you'll need to touch base with your anchor to run through your content. **You** are responsible for reaching out to schedule this. It is not required to physically meet (unless you'd like) - An outline of your talk via Slack is sufficient for approval.
  
+---- 
+
+### Resources 
+* [Rails Conf Lightning Talk Videos](https://www.youtube.com/watch?v=DHHHnPwSY5I)
+	- Check out the collection of videos from Rails Conf for insight on what lightning talks look/feel like. 
