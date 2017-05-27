@@ -3,4 +3,4 @@
 #### 1:00 PM - 4:00 PM
 
 -----------------------------------------
-1. John Doe - CSS Animations
+1. Laura Caroselli - Breaking the problem down + best pseudo coding practices
