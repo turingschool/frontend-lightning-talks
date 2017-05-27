@@ -9,3 +9,4 @@
 5. Nick Svetnicka - Quit SLACKing Off
 6. Christie Lynam - JavaScript Closures
 7. Tyler Garner - Media queries, screens + beyond
+8. Margo Schaedel - Front End Hip - how to stay in the know on ALL the things
