@@ -5,3 +5,4 @@
 1. John Doe - CSS Animations
 2. David Becker - Algorithms
 3. Laura Caroselli - Breaking the problem down + best pseudo coding practices
+4. Hector A. Sanchez - ES6
