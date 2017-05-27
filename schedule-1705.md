@@ -11,3 +11,4 @@
 7. Tyler Garner - Media queries, screens + beyond
 8. Margo Schaedel - Front End Hip - how to stay in the know on ALL the things
 9. David Ryan - Blockchain
+10. Shayla Richard - Developer Identity
