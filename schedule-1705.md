@@ -15,7 +15,7 @@
 11. Ana Jauregui - CSS Styleguides
 12. Molly Foster - CSS Positioning
 13. Dan Alvarez - Pairing Approaches
-14. Tyler Hevia - CSS relative units of measure: ems, rems, percentages, viewport measures
+14. Tyler Hevia - Linters
 15. Ralph Burnette - Accessibility do’s and don’ts and/or deep dive
 16. Jonathan Beckman - JavaScript Function Prototypes
 17. Travis Rollins - React
