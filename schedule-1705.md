@@ -12,3 +12,12 @@
 8. Margo Schaedel - Front End Hip - how to stay in the know on ALL the things
 9. David Ryan - Blockchain
 10. Shayla Richard - Developer Identity
+11. Ana Jauregui - CSS Styleguides
+12. Molly Foster - CSS Positioning
+13. Dan Alvarez - Pairing Approaches
+14. Tyler Hevia - CSS relative units of measure: ems, rems, percentages, viewport measures
+15. Ralph Burnette - Accessibility do’s and don’ts and/or deep dive
+16. Jonathan Beckman - JavaScript Function Prototypes
+17. Travis Rollins - React
+18. Jason Lucas - CSS relative units of measure: ems, rems, percentages, viewport measures
+19. Jack Mallahan - ES6
