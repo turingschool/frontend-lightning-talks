@@ -22,3 +22,4 @@
 18. Jason Lucas - CSS relative units of measure: ems, rems, percentages, viewport measures
 19. Jack Mallahan - ES6
 20. Erik Ingvalson - Working in Pairs
+21. Michael Marlow - (Predicting) The Future of Displays
