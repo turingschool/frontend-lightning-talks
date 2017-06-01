@@ -14,7 +14,7 @@
 10. Shayla Richard - Developer Identity
 11. Ana Jauregui - CSS Styleguides
 12. Molly Foster - CSS Positioning
-13. Dan Alvarez - Pairing Approaches
+13. Dan Alvarez - The Importance of Review, Assessments and Quizlettes
 14. Tyler Hevia - TypeScript
 15. Ralph Burnette - Accessibility do’s and don’ts and/or deep dive
 16. Jonathan Beckman - JavaScript Function Prototypes
