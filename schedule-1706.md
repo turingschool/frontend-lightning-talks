@@ -17,7 +17,7 @@
 - John Michael Boudreaux:
 - Jorge Perez Garcia:
 - Lucas Finney:
-- Matt Renn:
+- Matt Renn: Algoriths or die
 - Matthew Arvidson:
 - Michael Marlow:
 - Nick Teets:
