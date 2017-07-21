@@ -16,7 +16,7 @@
 - Jennifer Woodson:
 - John Michael Boudreaux:
 - Jorge Perez Garcia:
-- Lucas Finney:
+- Lucas Finney: Grid Layout
 - Matt Renn:
 - Matthew Arvidson:
 - Michael Marlow:
