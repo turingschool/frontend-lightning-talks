@@ -5,7 +5,7 @@
 - Adam Mescher:
 - Alex Banister:
 - Lola Brenner:
-- Amy Holt:
+- Amy Holt: Linters - what, why, how, types?
 - Ben Porter:
 - David Ryan:
 - Rufus Welsh:
