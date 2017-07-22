@@ -18,7 +18,7 @@
 - Jorge Perez Garcia:
 - Lucas Finney: Grid Layout
 - Matt Renn: Algoriths or die
-- Matthew Arvidson:
+- Matthew Arvidson: Javscript - closures
 - Michael Marlow:
 - Nick Teets:
 - Robbie Greiner: Web Scrapers
