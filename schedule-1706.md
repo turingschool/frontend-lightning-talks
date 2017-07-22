@@ -7,19 +7,19 @@
 - Lola Brenner:
 - Amy Holt: Linters - What, Why, How, Types?
 - Ben Porter:
-- David Ryan:
+- David Ryan: React ES6 or Canvas
 - Rufus Welsh:
-- Erik Ingvalson:
+- Erik Ingvalson: ES6
 - Francy Lang:
 - Jacob Boutin:
 - Jason Hughes:
 - Jennifer Woodson:
 - John Michael Boudreaux:
 - Jorge Perez Garcia:
-- Lucas Finney:
-- Matt Renn:
-- Matthew Arvidson:
+- Lucas Finney: Grid Layout
+- Matt Renn: Algoriths or die
+- Matthew Arvidson: Javscript - closures
 - Michael Marlow:
 - Nick Teets:
-- Robbie Greiner:
+- Robbie Greiner: Web Scrapers
 - Samuel Singer:
