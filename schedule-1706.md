@@ -18,7 +18,8 @@
 - Jorge Perez Garcia:
 - Lucas Finney:
 - Matt Renn:
-- Matthew Arvidson:
+- Matthew Arvidson: 9.  Javscript - closures / if it's taken then 7.  CSS positioning - all the techniques, pros/cons, results
+
 - Michael Marlow:
 - Nick Teets:
 - Robbie Greiner:
