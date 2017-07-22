@@ -7,9 +7,9 @@
 - Lola Brenner:
 - Amy Holt:
 - Ben Porter:
-- David Ryan:
+- David Ryan: React ES6 or Canvas
 - Rufus Welsh:
-- Erik Ingvalson:
+- Erik Ingvalson: ES6
 - Francy Lang:
 - Jacob Boutin:
 - Jason Hughes:
@@ -17,9 +17,9 @@
 - John Michael Boudreaux:
 - Jorge Perez Garcia:
 - Lucas Finney: Grid Layout
-- Matt Renn:
+- Matt Renn: Algoriths or die
 - Matthew Arvidson:
 - Michael Marlow:
 - Nick Teets:
-- Robbie Greiner:
+- Robbie Greiner: Web Scrapers
 - Samuel Singer:
