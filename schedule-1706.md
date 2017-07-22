@@ -9,7 +9,7 @@
 - Ben Porter:
 - David Ryan:
 - Rufus Welsh:
-- Erik Ingvalson:
+- Erik Ingvalson: ES6
 - Francy Lang:
 - Jacob Boutin:
 - Jason Hughes:
