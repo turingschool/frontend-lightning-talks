@@ -7,7 +7,7 @@
 - Lola Brenner:
 - Amy Holt:
 - Ben Porter:
-- David Ryan:
+- David Ryan: React ES6 or Canvas
 - Rufus Welsh:
 - Erik Ingvalson: ES6
 - Francy Lang:
