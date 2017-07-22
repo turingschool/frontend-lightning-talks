@@ -22,4 +22,4 @@
 - Michael Marlow:
 - Nick Teets:
 - Robbie Greiner: Web Scrapers
-- Samuel Singer:
+- Samuel Singer: Hacking the FE interview
