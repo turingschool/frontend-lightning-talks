@@ -5,7 +5,7 @@
 - Adam Mescher:
 - Alex Banister:
 - Lola Brenner:
-- Amy Holt: Linters - what, why, how, types?
+- Amy Holt: Why You Need ES6 Now
 - Ben Porter:
 - David Ryan:
 - Rufus Welsh:
