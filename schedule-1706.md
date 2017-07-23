@@ -14,7 +14,7 @@
 - Jacob Boutin:
 - Jason Hughes:
 - Jennifer Woodson:
-- John Michael Boudreaux:
+- John Michael Boudreaux: Object Oriented Programming
 - Jorge Perez Garcia:
 - Lucas Finney: Grid Layout
 - Matt Renn: Algoriths or die
