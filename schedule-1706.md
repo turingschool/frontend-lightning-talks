@@ -13,7 +13,7 @@
 - Francy Lang:
 - Jacob Boutin:
 - Jason Hughes:
-- Jennifer Woodson:
+- Jennifer Woodson: Breaking the problem down + best pseudo coding practices
 - John Michael Boudreaux:
 - Jorge Perez Garcia:
 - Lucas Finney: Grid Layout
