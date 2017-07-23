@@ -20,6 +20,6 @@
 - Matt Renn: Algoriths or die
 - Matthew Arvidson: Javscript - closures
 - Michael Marlow:
-- Nick Teets:
+- Nick Teets: Object Oriented Programming
 - Robbie Greiner: Web Scrapers
 - Samuel Singer: Hacking the FE interview
