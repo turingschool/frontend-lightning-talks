@@ -3,7 +3,7 @@
 #### 1:00 PM - 4:00 PM
 
 - Adam Mescher:
-- Alex Banister:
+- Alex Banister: SVGs
 - Lola Brenner:
 - Amy Holt:
 - Ben Porter:
