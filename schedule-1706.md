@@ -5,7 +5,7 @@
 - Adam Mescher:
 - Alex Banister:
 - Lola Brenner:
-- Amy Holt: Linters
+- Amy Holt: Linters - When, Why, How? and Types!
 - Ben Porter:
 - David Ryan: React ES6 or Canvas
 - Rufus Welsh:
