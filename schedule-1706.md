@@ -6,7 +6,7 @@
 - Alex Banister:
 - Lola Brenner:
 - Amy Holt:
-- Ben Porter:
+- Ben Porter:SEO fundamentals and the role of front end developers.
 - David Ryan:
 - Rufus Welsh:
 - Erik Ingvalson:
