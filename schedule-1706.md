@@ -12,7 +12,7 @@
 - Erik Ingvalson: ES6
 - Francy Lang:
 - Jacob Boutin:
-- Jason Hughes:
+- Jason Hughes:CSS relative units of measure: ems, rems, percentages, viewport measures
 - Jennifer Woodson: Breaking the problem down + best pseudo coding practices
 - John Michael Boudreaux: Object Oriented Programming
 - Jorge Perez Garcia:
