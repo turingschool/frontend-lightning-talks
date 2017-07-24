@@ -5,7 +5,7 @@
 - Adam Mescher:
 - Alex Banister: SVGs
 - Lola Brenner:
-- Amy Holt:
+- Amy Holt: Linters
 - Ben Porter:
 - David Ryan: React ES6 or Canvas
 - Rufus Welsh:
