@@ -7,7 +7,7 @@
 - Lola Brenner:
 - Amy Holt: Linters - When, Why, How? and Types!
 - Ben Porter:
-- David Ryan: React ES6 or Canvas
+- David Ryan: Canvas
 - Rufus Welsh:
 - Erik Ingvalson: ES6
 - Francy Lang:
