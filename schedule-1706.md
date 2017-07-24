@@ -3,7 +3,7 @@
 #### 1:00 PM - 4:00 PM
 
 - Adam Mescher:
-- Alex Banister:
+- Alex Banister: SVGs
 - Lola Brenner:
 - Amy Holt:
 - Ben Porter:
@@ -14,7 +14,7 @@
 - Jacob Boutin:
 - Jason Hughes:
 - Jennifer Woodson: Breaking the problem down + best pseudo coding practices
-- John Michael Boudreaux:
+- John Michael Boudreaux: Object Oriented Programming
 - Jorge Perez Garcia:
 - Lucas Finney: Grid Layout
 - Matt Renn: Algoriths or die
