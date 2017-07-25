@@ -4,7 +4,7 @@
 
 - Adam Mescher:
 - Alex Banister: SVGs
-- Lola Brenner:
+- Lola Brenner: The Role of the Internet in the Advancement of LGBT Rights
 - Amy Holt: Linters - When, Why, How? and Types!
 - Ben Porter:
 - David Ryan: Canvas
