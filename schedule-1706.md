@@ -6,7 +6,7 @@
 - Alex Banister: SVGs
 - Lola Brenner: The Role of the Internet in the Advancement of LGBT Rights
 - Amy Holt: Linters - When, Why, How? and Types!
-- Ben Porter:
+- Ben Porter: SEO fundamentals and the role of front end developers.
 - David Ryan: Canvas
 - Rufus Welsh:
 - Erik Ingvalson: ES6
