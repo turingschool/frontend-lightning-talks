@@ -15,7 +15,7 @@
 - Jason Hughes:CSS relative units of measure: ems, rems, percentages, viewport measures
 - Jennifer Woodson: Breaking the problem down + best pseudo coding practices
 - John Michael Boudreaux: Object Oriented Programming
-- Jorge Perez Garcia:
+- Jorge Perez Garcia: HTML Canvas / Tips for crafting your “Developer Identity”
 - Lucas Finney: Grid Layout
 - Matt Renn: Algoriths or die
 - Matthew Arvidson: Javscript - closures
