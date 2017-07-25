@@ -10,7 +10,7 @@
 - David Ryan: Canvas
 - Rufus Welsh:
 - Erik Ingvalson: ES6
-- Francy Lang:
+- Francy Lang: Getting Better at Getting Better
 - Jacob Boutin:
 - Jason Hughes:CSS relative units of measure: ems, rems, percentages, viewport measures
 - Jennifer Woodson: Breaking the problem down + best pseudo coding practices
