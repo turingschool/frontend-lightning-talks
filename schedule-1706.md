@@ -2,7 +2,7 @@
 #### Thursday, June 1
 #### 1:00 PM - 4:00 PM
 
-- Adam Mescher:
+- Adam Mescher: D3 library
 - Alex Banister: SVGs
 - Lola Brenner: The Role of the Internet in the Advancement of LGBT Rights
 - Amy Holt: Linters - When, Why, How? and Types!
