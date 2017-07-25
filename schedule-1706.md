@@ -2,24 +2,24 @@
 #### Thursday, June 1
 #### 1:00 PM - 4:00 PM
 
-- Adam Mescher:
-- Alex Banister:
-- Lola Brenner:
-- Amy Holt:
-- Ben Porter:SEO fundamentals and the role of front end developers.
-- David Ryan:
+- Adam Mescher: D3 library
+- Alex Banister: SVGs
+- Lola Brenner: The Role of the Internet in the Advancement of LGBT Rights
+- Amy Holt: Linters - When, Why, How? and Types!
+- Ben Porter: SEO fundamentals and the role of front end developers.
+- David Ryan: Canvas
 - Rufus Welsh:
-- Erik Ingvalson:
-- Francy Lang:
+- Erik Ingvalson: ES6
+- Francy Lang: Getting Better at Getting Better
 - Jacob Boutin:
-- Jason Hughes:
-- Jennifer Woodson:
-- John Michael Boudreaux:
+- Jason Hughes:CSS relative units of measure: ems, rems, percentages, viewport measures
+- Jennifer Woodson: Breaking the problem down + best pseudo coding practices
+- John Michael Boudreaux: Object Oriented Programming
 - Jorge Perez Garcia:
-- Lucas Finney:
-- Matt Renn:
-- Matthew Arvidson:
+- Lucas Finney: Grid Layout
+- Matt Renn: Algoriths or die
+- Matthew Arvidson: Javscript - closures
 - Michael Marlow:
-- Nick Teets:
-- Robbie Greiner:
-- Samuel Singer:
+- Nick Teets: React - what and why?
+- Robbie Greiner: Web Scrapers
+- Samuel Singer: Hacking the FE interview
