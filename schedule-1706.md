@@ -19,7 +19,7 @@
 - Lucas Finney: Grid Layout
 - Matt Renn: Algoriths or die
 - Matthew Arvidson: Javscript - closures
-- Michael Marlow:
+- Michael Marlow: WTF Webpack? And why do I care?
 - Nick Teets: React - what and why?
 - Robbie Greiner: Web Scrapers
 - Samuel Singer: Hacking the FE interview
