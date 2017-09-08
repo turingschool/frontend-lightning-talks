@@ -60,17 +60,17 @@
 ### How To
 
 1. Fork this repository 
-2. Edit the `schedule-1706.md` file by inserting your topic next to your name. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation. 
+2. Edit the `schedule-1708.md` file by inserting your topic next to your name. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation. 
 
 	```
 	- Penelope: History of Women In Tech 
 	```
 
-3. Submit a Pull Request to this repository, titled like so: `FirstName LastName: Title of Talk`
+3. Submit a Pull Request *to this repository* (not your forked repo), titled like so: `FirstName LastName: Title of Talk`
 
 	* Note: We review submissions based on when pull requests are submitted. *You may not see that a topic has been taken if we have not yet merged an earlier pull request to master. We'll let you know as quickly as possible if your proposed topic is already taken.*
 
-4. At some point before the day of your lightning talk, you'll need to touch base with your instructors to run through your content. **You** are responsible for reaching out to schedule this. It is not required to physically meet (unless you'd like) - An outline of your talk via Slack is sufficient for approval.
+4. At some point before the day of your lightning talk, touch base with your instructors to run through your content. **You** are responsible for reaching out to schedule this. It is not required to physically meet (unless you'd like) - An outline of your talk via Slack is sufficient for approval.
  
 ---- 
 
