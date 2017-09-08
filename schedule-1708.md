@@ -14,7 +14,7 @@
 - Matthew Arvidson:
 - Patrick Neel:
 - Rob Morgan:
-- Spencer Herms:
+- Spencer Herms: Linters - what, why, how, types?
 - Thomas Laird:
 - Todd Watner:
 - Valentino Valentine:
