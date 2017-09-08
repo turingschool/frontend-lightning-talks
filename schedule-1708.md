@@ -15,6 +15,6 @@
 - Patrick Neel:
 - Rob Morgan:
 - Spencer Herms:
-- Thomas Laird:
+- Thomas Laird: Client side security + hacking
 - Todd Watner:
 - Valentino Valentine:
