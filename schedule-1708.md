@@ -9,7 +9,7 @@
 - Julie Hawkins:
 - Jesse Packwood:
 - Katie Scruggs:
-- Maria St. Louis-Sanchez:D3
+- Maria St. Louis-Sanchez:Magic of D3
 - Matt Renn:
 - Matthew Arvidson:
 - Patrick Neel:
