@@ -10,7 +10,7 @@
 - Jesse Packwood:
 - Katie Scruggs:
 - Maria St. Louis-Sanchez:
-- Matt Renn:
+- Matt Renn: React
 - Matthew Arvidson:
 - Patrick Neel:
 - Rob Morgan:
