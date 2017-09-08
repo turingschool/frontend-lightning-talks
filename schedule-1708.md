@@ -13,7 +13,7 @@
 - Matt Renn:
 - Matthew Arvidson:
 - Patrick Neel:
-- Rob Morgan:
+- Rob Morgan: SVGs - all about them, how to use them, when to use them
 - Spencer Herms:
 - Thomas Laird:
 - Todd Watner:
