@@ -5,7 +5,7 @@
 - Brandon Farestad-Rittel:
 - Hugh Hartigan:
 - Jeff Bender:
-- Julie Dursema:
+- Julie Dursema: 27. Linters - what, why, how, types?
 - Julie Hawkins:
 - Jesse Packwood:
 - Katie Scruggs:
