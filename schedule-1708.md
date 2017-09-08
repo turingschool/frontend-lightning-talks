@@ -7,7 +7,7 @@
 - Jeff Bender:
 - Julie Dursema:
 - Julie Hawkins:
-- Jesse Packwood:
+- Jesse Packwood: Electron
 - Katie Scruggs:
 - Maria St. Louis-Sanchez:
 - Matt Renn:
