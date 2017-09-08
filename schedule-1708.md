@@ -14,7 +14,7 @@
 - Matthew Arvidson:
 - Patrick Neel:
 - Rob Morgan:
-- Spencer Herms: Linters - what, why, how, types?
+- Spencer Herms: CSS relative units of measure: ems, rems, percentages, viewport measures
 - Thomas Laird:
 - Todd Watner:
 - Valentino Valentine:
