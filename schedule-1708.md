@@ -6,7 +6,7 @@
 - Hugh Hartigan:
 - Jeff Bender:
 - Julie Dursema:
-- Julie Hawkins:
+- Julie Hawkins: Accessibility do’s and don’ts and/or deep dive
 - Jesse Packwood:
 - Katie Scruggs:
 - Maria St. Louis-Sanchez:
