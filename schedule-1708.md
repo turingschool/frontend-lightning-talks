@@ -9,7 +9,7 @@
 - Julie Hawkins:
 - Jesse Packwood:
 - Katie Scruggs:
-- Maria St. Louis-Sanchez:
+- Maria St. Louis-Sanchez:D3
 - Matt Renn:
 - Matthew Arvidson:
 - Patrick Neel:
