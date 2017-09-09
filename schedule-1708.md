@@ -5,16 +5,16 @@
 - Brandon Farestad-Rittel:
 - Hugh Hartigan:
 - Jeff Bender:
-- Julie Dursema:
-- Julie Hawkins:
+- Julie Dursema: 27. Linters - what, why, how, types?
+- Julie Hawkins: Accessibility do’s and don’ts and/or deep dive
 - Jesse Packwood:
 - Katie Scruggs:
 - Maria St. Louis-Sanchez:
 - Matt Renn:
 - Matthew Arvidson:
 - Patrick Neel:
-- Rob Morgan:
-- Spencer Herms:
+- Rob Morgan: SVGs - all about them, how to use them, when to use them
+- Spencer Herms: CSS relative units of measure: ems, rems, percentages, viewport measures
 - Thomas Laird: Client side security + hacking
 - Todd Watner:
 - Valentino Valentine:
