@@ -13,7 +13,7 @@
 - Matt Renn:
 - Matthew Arvidson:
 - Patrick Neel:
-- Rob Morgan:
+- Rob Morgan: SVGs - all about them, how to use them, when to use them
 - Spencer Herms: CSS relative units of measure: ems, rems, percentages, viewport measures
 - Thomas Laird:
 - Todd Watner:
