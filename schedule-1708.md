@@ -15,6 +15,6 @@
 - Patrick Neel:
 - Rob Morgan: SVGs - all about them, how to use them, when to use them
 - Spencer Herms: CSS relative units of measure: ems, rems, percentages, viewport measures
-- Thomas Laird:
+- Thomas Laird: Client side security + hacking
 - Todd Watner:
 - Valentino Valentine:
