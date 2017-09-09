@@ -6,7 +6,7 @@
 - Hugh Hartigan:
 - Jeff Bender:
 - Julie Dursema: 27. Linters - what, why, how, types?
-- Julie Hawkins:
+- Julie Hawkins: Accessibility do’s and don’ts and/or deep dive
 - Jesse Packwood:
 - Katie Scruggs:
 - Maria St. Louis-Sanchez:
