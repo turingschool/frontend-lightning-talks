@@ -2,7 +2,7 @@
 #### Thursday, September 14
 #### 1:00 PM - 4:00 PM
 
-- Brandon Farestad-Rittel:
+- Brandon Farestad-Rittel: Breaking the problem down + best pseudo coding practices
 - Hugh Hartigan:
 - Jeff Bender:
 - Julie Dursema: 27. Linters - what, why, how, types?
