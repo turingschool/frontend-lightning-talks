@@ -12,7 +12,7 @@
 - Maria St. Louis-Sanchez:
 - Matt Renn:
 - Matthew Arvidson:
-- Patrick Neel: HTML- canvas
+- Patrick Neel: how HTML-canvas can produce vivacious animations to animate a drawing and objectify your drawing
 - Rob Morgan: SVGs - all about them, how to use them, when to use them
 - Spencer Herms: CSS relative units of measure: ems, rems, percentages, viewport measures
 - Thomas Laird: Client side security + hacking
