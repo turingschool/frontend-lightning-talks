@@ -7,7 +7,7 @@
 - Jeff Bender:
 - Julie Dursema:
 - Julie Hawkins:
-- Jesse Packwood: Electron
+- Jesse Packwood: Using javascript to build desktop apps with Electron
 - Katie Scruggs:
 - Maria St. Louis-Sanchez:
 - Matt Renn:
