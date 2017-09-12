@@ -3,7 +3,7 @@
 #### 1:00 PM - 4:00 PM
 
 - Brandon Farestad-Rittel: Breaking the problem down + best pseudo coding practices
-- Hugh Hartigan:
+- Hugh Hartigan: Tips for crafting your “Developer Identity”
 - Jeff Bender:
 - Julie Dursema: 27. Linters - what, why, how, types?
 - Julie Hawkins: Accessibility do’s and don’ts and/or deep dive
