@@ -7,7 +7,7 @@
 - Jeff Bender:
 - Julie Dursema: 27. Linters - what, why, how, types?
 - Julie Hawkins: Accessibility do’s and don’ts and/or deep dive
-- Jesse Packwood:
+- Jesse Packwood: Electron, building desktop apps with javasript
 - Katie Scruggs: Algorithms or die - top algorithms programmers should know
 - Maria St. Louis-Sanchez:
 - Matt Renn:
