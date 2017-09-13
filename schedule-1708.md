@@ -11,7 +11,7 @@
 - Katie Scruggs: Algorithms or die - top algorithms programmers should know
 - Maria St. Louis-Sanchez: Magic of D3
 - Matt Renn:
-- Matthew Arvidson:
+- Matthew Arvidson: Pairing approaches - all the types and pros/cons
 - Patrick Neel: how HTML-canvas can produce vivacious animations to animate a drawing and objectify your drawing
 - Rob Morgan: SVGs - all about them, how to use them, when to use them
 - Spencer Herms: CSS relative units of measure: ems, rems, percentages, viewport measures
