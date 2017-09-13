@@ -9,7 +9,7 @@
 - Julie Hawkins: Accessibility do’s and don’ts and/or deep dive
 - Jesse Packwood: Electron, building desktop apps with javasript
 - Katie Scruggs: Algorithms or die - top algorithms programmers should know
-- Maria St. Louis-Sanchez:
+- Maria St. Louis-Sanchez: Magic of D3
 - Matt Renn:
 - Matthew Arvidson:
 - Patrick Neel: how HTML-canvas can produce vivacious animations to animate a drawing and objectify your drawing
