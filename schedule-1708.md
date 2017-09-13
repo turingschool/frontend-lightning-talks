@@ -17,4 +17,4 @@
 - Spencer Herms: CSS relative units of measure: ems, rems, percentages, viewport measures
 - Thomas Laird: Client side security + hacking
 - Todd Watner:
-- Valentino Valentine:
+- Valentino Valentine:jQuery chaining - the good, the bad, the ugly
