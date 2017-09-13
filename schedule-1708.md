@@ -16,5 +16,5 @@
 - Rob Morgan:
 - Spencer Herms:
 - Thomas Laird:
-- Todd Watner:
+- Todd Watner: How to navigate networking and market oneself?
 - Valentino Valentine:
