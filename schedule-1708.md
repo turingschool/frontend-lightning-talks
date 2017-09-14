@@ -4,7 +4,7 @@
 
 - Brandon Farestad-Rittel: Breaking the problem down + best pseudo coding practices
 - Hugh Hartigan: Tips for crafting your “Developer Identity”
-- Jeff Bender:
+- Jeff Bender: Adice From The FUTURE FUTURE FUTURE (Regarding CSS Positioning)
 - Julie Dursema: 27. Linters - what, why, how, types?
 - Julie Hawkins: Accessibility do’s and don’ts and/or deep dive
 - Jesse Packwood: Electron, building desktop apps with javasript
