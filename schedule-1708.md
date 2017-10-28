@@ -10,7 +10,7 @@
 - Jesse Packwood: Electron, building desktop apps with javasript
 - Katie Scruggs: Algorithms or die - top algorithms programmers should know
 - Maria St. Louis-Sanchez: Magic of D3
-- Matt Renn:
+- Matt Renn: React: A Javascript Library for Building User Interfaces
 - Matthew Arvidson: Pairing approaches - all the types and pros/cons
 - Patrick Neel: how HTML-canvas can produce vivacious animations to animate a drawing and objectify your drawing
 - Rob Morgan: SVGs - all about them, how to use them, when to use them
