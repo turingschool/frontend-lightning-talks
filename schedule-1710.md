@@ -43,7 +43,7 @@
 18. CSS optimization - easy wins and gotchas
 Edgar Munoz 19. React - what and why?
 20. Front End Hip - how to stay in the know on all the things- Amy Russell
-21. Pairing approaches - all the types and pros/cons
+21. Pairing approaches - all the types and pros/cons - Natalie
 22. Tips for crafting your “Developer Identity” -Emily Kuckelman
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 24. Parker Lindley - Breaking the problem down + best pseudo coding practices
