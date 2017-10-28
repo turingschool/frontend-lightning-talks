@@ -23,20 +23,20 @@
 ### Topic Selection List
 
 ```
-1.  CSS relative units of measure: ems, rems, percentages, viewport measures
+1.  CSS relative units of measure: ems, rems, percentages, viewport measures Sabrina-Kennedy;
 2.  Javascript `this` binding
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 5.  Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
-8.  Media queries - screens + beyond
+8.  Media queries - screens + beyond - JEFF GOODALL
 9.  Javscript - closures
 10. Object Oriented Programming
 11. What is this VIM you speak of?
 12. Client side security + hacking
 13. ES6 - BRUCE
-14. D3 library
+14. D3 library - MELISSA WAGASKY!
 15. HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
@@ -46,9 +46,9 @@
 21. Pairing approaches - all the types and pros/cons
 22. Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
-24. Breaking the problem down + best pseudo coding practices
+24. Parker Lindley - Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
-26. CSS Styleguides
+26. Michelle Hoffman: CSS Styleguides
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
