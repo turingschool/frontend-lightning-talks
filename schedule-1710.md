@@ -32,7 +32,7 @@
 7.  CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond - JEFF GOODALL
 9.  Javscript - closures
-10. Object Oriented Programming
+10. Object Oriented Programming - Jordan Quinn
 11. What is this VIM you speak of? -  James Logue
 12. Client side security + hacking
 13. ES6 - BRUCE
