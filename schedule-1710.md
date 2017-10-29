@@ -34,7 +34,7 @@
 9.  Javscript - closures
 - Jordan Quinn: Object Oriented Programming 
 -  James Logue: What is this VIM you speak of?
-12. Client side security + hacking
+- Ophus Wong: Client side security + hacking
 - Bruce Chung: ES6 
 - Melissa Wagasky: D3 library 
 - Alex Bonder: HTML Canvas
