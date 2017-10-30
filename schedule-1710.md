@@ -34,12 +34,12 @@
 9.  Javscript - closures
 - Jordan Quinn: Object Oriented Programming 
 -  James Logue: What is this VIM you speak of?
--Nyssa Keller: Client side security + hacking
+12. Client side security + hacking
 - Bruce Chung: ES6 
 - Melissa Wagasky: D3 library 
 - Alex Bonder: HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
-17. Acceptance testing - what and why?
+-NyssaKeller: Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
 - Edgar Munoz: React - what and why?
 - Amy Russell: Front End Hip - how to stay in the know on all the things
