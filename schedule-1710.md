@@ -54,6 +54,7 @@
 29. Algorithms or die - top algorithms programmers should know
 - Casey Dallavalle: Hacking the FE interview
 - Amanda Tjan: Why culture shock is a real thing
+- Nora Gully: VR and AR Fundamentals
 ```
 
 ---
