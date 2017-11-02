@@ -47,7 +47,7 @@
 - Emily Kuckelman: Tips for crafting your “Developer Identity” 
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 - Parker Lindley: Breaking the problem down + best pseudo coding practices
-25. WTF Webpack? And why do I care?
+- Kailin Cannon: WTF Webpack? And why do I care?
 - Michelle Hoffman: CSS Styleguides
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
