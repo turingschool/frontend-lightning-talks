@@ -40,7 +40,7 @@
 - Alex Bonder: HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
 -NyssaKeller: Acceptance testing - what and why?
-18. CSS optimization - easy wins and gotchas
+- Valentino Valentine: CSS optimization - easy wins and gotchas
 - Edgar Munoz: React - what and why?
 - Amy Russell: Front End Hip - how to stay in the know on all the things
 - Natalie Montoya: Pairing approaches - all the types and pros/cons 
