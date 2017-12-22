@@ -42,10 +42,10 @@
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
 19. React - what and why?
-20. Front End Hip - how to stay in the know on all the things
+20. Front End Hip - how to stay in the know on all the things - Keila Hoover
 21. Pairing approaches - all the types and pros/cons
 22. Tips for crafting your “Developer Identity”
-23. Team collaboration: github/PR etiquette, good workflows, best practices
+23. Team collaboration: github/PR etiquette, good workflows, best practices 
 24. Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
 26. CSS Styleguides
