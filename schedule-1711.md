@@ -53,6 +53,7 @@
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
+31. Beyond Bitcoin. Blockchain technology is the real win. - Matt Walker
 ```
 
 ---
