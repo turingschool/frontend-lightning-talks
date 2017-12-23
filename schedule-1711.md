@@ -34,7 +34,7 @@ Chase Richard - CSS positioning - all the techniques, pros/cons, results
 9.  Javscript - closures
 10. Object Oriented Programming
 11. What is this VIM you speak of?
-12. Client side security + hacking
+12. Ryan Harrington - Client side security + hacking
 13. ES6
 14. Maddy Dannenberg- D3 library
 15. HTML Canvas
