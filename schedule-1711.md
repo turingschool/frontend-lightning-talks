@@ -53,6 +53,7 @@ Chase Richard - CSS positioning - all the techniques, pros/cons, results
 28. Take your `git` foo to the next level
 29. Jon Sweet - Algorithms or die - top algorithms programmers should know
 30. Emily Kickelman - Hacking the FE interview
+31. Matt Walker - Beyond Bitcoin. Blockchain technology is the real win
 ```
 
 ---
