@@ -23,7 +23,7 @@
 ### Topic Selection List
 
 ```
-1.  Ngoc Phan CSS relative units of measure: ems, rems, percentages, viewport measures
+Ngoc Phan CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Javascript `this` binding
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
@@ -34,11 +34,11 @@ Chase Richard - CSS positioning - all the techniques, pros/cons, results
 9.  Javscript - closures
 10. Object Oriented Programming
 11. What is this VIM you speak of?
-12. Ryan Harrington - Client side security + hacking
+Ryan Harrington - Client side security + hacking
 13. ES6
-14. Maddy Dannenberg- D3 library
-15. HTML Canvas
-16. Charles Yach SVGs - all about them, how to use them, when to use them
+Maddy Dannenberg- D3 library
+Sabrina - HTML Canvas
+Charles Yach SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
 19. Patrick React - what and why?
@@ -49,11 +49,11 @@ Chase Richard - CSS positioning - all the techniques, pros/cons, results
 24. Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
 26. CSS Styleguides
-27. --Edgar Munoz Linters - what, why, how, types?
+Edgar Munoz Linters - what, why, how, types?
 28. Take your `git` foo to the next level
-29. Jon Sweet - Algorithms or die - top algorithms programmers should know
-30. Emily Kickelman - Hacking the FE interview
-31. Matt Walker - Beyond Bitcoin. Blockchain technology is the real win
+Jon Sweet - Algorithms or die - top algorithms programmers should know
+Emily Kickelman - Hacking the FE interview
+Matt Walker - Beyond Bitcoin. Blockchain technology is the real win
 ```
 
 ---
