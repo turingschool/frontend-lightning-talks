@@ -38,7 +38,7 @@ Chase Richard - CSS positioning - all the techniques, pros/cons, results
 13. ES6
 14. D3 library
 15. HTML Canvas
-16. SVGs - all about them, how to use them, when to use them
+16. Charles Yach SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
 19. Patrick React - what and why?
