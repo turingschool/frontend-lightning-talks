@@ -33,16 +33,16 @@ Chase Richard - CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond
 9.  Javscript - closures
 10. Object Oriented Programming
-Jared - What is this VIM you speak of?
-Ryan Harrington - Client side security + hacking
-13. ES6
-Maddy Dannenberg- D3 library
-Sabrina - HTML Canvas
-Charles Yach SVGs - all about them, how to use them, when to use them
+11. Jared - What is this VIM you speak of?
+12. Ryan Harrington - Client side security + hacking
+13. Theresa Marquis - ES6 
+14. Maddy Dannenberg- D3 library
+15. Sabrina - HTML Canvas
+16. Charles Yach SVGs - SVGs all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
-Patrick React - what and why?
-Keila Hoover - Front End Hip - how to stay in the know on all the things
+19. Patrick React - React what and why?
+20. Keila Hoover - Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 Hannah Bare- Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
