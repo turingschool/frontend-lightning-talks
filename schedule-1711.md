@@ -51,8 +51,8 @@
 26. CSS Styleguides
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
-29. JON SWEET - Algorithms or die - top algorithms programmers should know
-30. Hacking the FE interview
+29. Jon Sweet - Algorithms or die - top algorithms programmers should know
+30. Emily Kickelman - Hacking the FE interview
 ```
 
 ---
