@@ -23,7 +23,7 @@
 ### Topic Selection List
 
 ```
-1.  CSS relative units of measure: ems, rems, percentages, viewport measures
+1.  Ngoc Phan CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Javascript `this` binding
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
@@ -51,8 +51,8 @@
 26. CSS Styleguides
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
-29. Algorithms or die - top algorithms programmers should know
-30. Hacking the FE interview -Emily Kuckelman
+29. Jon Sweet - Algorithms or die - top algorithms programmers should know
+30. Emily Kickelman - Hacking the FE interview
 ```
 
 ---
