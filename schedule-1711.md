@@ -35,7 +35,7 @@
 10. Object Oriented Programming
 11. What is this VIM you speak of?
 12. Client side security + hacking
-13. Steven Lawson ES6
+13. ES6
 14. D3 library
 15. HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
@@ -48,7 +48,7 @@
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 24. Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
-26. CSS Styleguides
+Steven Lawson - CSS Styleguides
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
