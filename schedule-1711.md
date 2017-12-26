@@ -5,8 +5,8 @@
 * Everyone in Module 1 is required to give a lightning talk.
 * A lightning talk is 5 minutes long. We'll time you, and we will have a cut off at 5 minutes. We suggest you run through your talk at least once to make sure you have enough time to cover the content!
 * Presentations are in front of the class.
-* You may select a topic from the list provided below. 
-* If you'd like to propose an alternate topic, let instructors know. Alternate topics require instructor approval. 
+* You may select a topic from the list provided below.
+* If you'd like to propose an alternate topic, let instructors know. Alternate topics require instructor approval.
 * Topics are first come first serve basis.
 
 ---
@@ -48,7 +48,7 @@ Hannah Bare- Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 24. Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
-26. CSS Styleguides
+Steven Lawson - CSS Styleguides
 Edgar Munoz Linters - what, why, how, types?
 28. Take your `git` foo to the next level
 Jon Sweet - Algorithms or die - top algorithms programmers should know
@@ -60,11 +60,11 @@ Matt Walker - Beyond Bitcoin. Blockchain technology is the real win
 
 ### How To
 
-1. Fork this repository 
-2. Edit the `schedule-1708.md` file by inserting your topic next to your name. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation. 
+1. Fork this repository
+2. Edit the `schedule-1708.md` file by inserting your topic next to your name. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation.
 
   ```
-  - Penelope: History of Women In Tech 
+  - Penelope: History of Women In Tech
   ```
 
 3. Submit a Pull Request *to this repository* (not your forked repo), titled like so: `FirstName LastName: Title of Talk`
@@ -72,9 +72,9 @@ Matt Walker - Beyond Bitcoin. Blockchain technology is the real win
   * Note: We review submissions based on when pull requests are submitted. *You may not see that a topic has been taken if we have not yet merged an earlier pull request to master. We'll let you know as quickly as possible if your proposed topic is already taken.*
 
 4. At some point before the day of your lightning talk, touch base with your instructors to run through your content. **You** are responsible for reaching out to schedule this. It is not required to physically meet (unless you'd like) - An outline of your talk via Slack is sufficient for approval.
- 
----- 
 
-### Resources 
+----
+
+### Resources
 * [Rails Conf Lightning Talk Videos](https://www.youtube.com/watch?v=DHHHnPwSY5I)
-  - Check out the collection of videos from Rails Conf for insight on what lightning talks look/feel like. 
+  - Check out the collection of videos from Rails Conf for insight on what lightning talks look/feel like.
