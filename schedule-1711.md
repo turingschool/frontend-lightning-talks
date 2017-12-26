@@ -50,7 +50,7 @@ Hannah Bare- Tips for crafting your “Developer Identity”
 25. WTF Webpack? And why do I care?
 Steven Lawson - CSS Styleguides
 Edgar Munoz Linters - what, why, how, types?
-28. Take your `git` foo to the next level
+Mike Duke - Take your `git` foo to the next level
 Jon Sweet - Algorithms or die - top algorithms programmers should know
 Emily Kickelman - Hacking the FE interview
 Matt Walker - Beyond Bitcoin. Blockchain technology is the real win
