@@ -40,7 +40,7 @@ Maddy Dannenberg- D3 library
 Sabrina - HTML Canvas
 Charles Yach SVGs - SVGs all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
-18. CSS optimization - easy wins and gotchas
+Aldo Mercado: CSS optimization - easy wins and gotchas
 Patrick React - React what and why?
 Keila Hoover - Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
