@@ -46,7 +46,7 @@ Keila Hoover - Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 Hannah Bare- Tips for crafting your “Developer Identity”
 Megan Kaiser Team collaboration: github/PR etiquette, good workflows, best practices
-24. Breaking the problem down + best pseudo coding practices
+Michael Gatewood - Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
 Steven Lawson - CSS Styleguides
 Edgar Munoz Linters - what, why, how, types?
