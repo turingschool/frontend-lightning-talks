@@ -9,7 +9,7 @@
 - David Daugherty
 - Eric Jungbluth
 - Gavin Love
-- Hannah Bare
+- Hannah Bare: HTML Canvas
 - Helen Dechat
 - Jack Laird
 - Jim Dechant
