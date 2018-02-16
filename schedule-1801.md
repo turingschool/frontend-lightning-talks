@@ -9,7 +9,7 @@
 - Daniela Carey
 - David Daugherty
 - Eric Jungbluth
-- Gavin Love
+- Gavin Love- 22. Tips for crafting your “Developer Identity”
 - Hannah Bare
 - Helen Dechat
 - Jack Laird
