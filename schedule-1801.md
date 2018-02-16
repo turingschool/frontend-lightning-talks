@@ -19,7 +19,7 @@
 - Laura Miller
 - Lee Graham
 - Megan Kaiser
-- Quinlan Hill
+- Quinlan Hill - react - what and why?
 - Ryan Harrington
 - Sage Vogt
 - Seamus Quinn
