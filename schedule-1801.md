@@ -23,6 +23,6 @@
 - Ryan Harrington
 - Sage Vogt
 - Seamus Quinn
-- Stephanie Ospina
+- Stephanie Ospina:  Algorithms or die - top algorithms programmers should know
 - Tony Robertson
 - Tyler McNamara
