@@ -20,7 +20,7 @@
 - Lee Graham
 - Megan Kaiser
 - Quinlan Hill
-- Ryan Harrington
+- Ryan Harrington 15. HTML Canvas
 - Sage Vogt
 - Seamus Quinn
 - Stephanie Ospina
