@@ -5,7 +5,7 @@
 - Austin Wiedenman
 - Cameron Buscher
 - Camilo Snapp
-- Daniela Carey
+- Daniela Carey: What is this VIM you speak of?
 - David Daugherty
 - Eric Jungbluth
 - Gavin Love
