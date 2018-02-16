@@ -2,7 +2,7 @@
 #### Thursday, February 22
 #### 1:00 PM - 4:00 PM
 
-- Angela Deslandes - 13. ES6
+- Angela Deslandes: ES6
 - Austin Wiedenman
 - Cameron Buscher
 - Camilo Snapp
