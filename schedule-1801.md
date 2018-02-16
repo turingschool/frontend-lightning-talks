@@ -24,5 +24,5 @@
 - Sage Vogt
 - Seamus Quinn
 - Stephanie Ospina
-- Tony Robertson
+- Tony Robertson: SVGs - all about them, how to use them, when to use them
 - Tyler McNamara
