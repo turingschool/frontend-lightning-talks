@@ -20,7 +20,7 @@
 - Lee Graham
 - Megan Kaiser
 - Quinlan Hill
-- Ryan Harrington 15. HTML Canvas
+- Ryan Harrington Algorithms or die - top algorithms programmers should know
 - Sage Vogt
 - Seamus Quinn
 - Stephanie Ospina
