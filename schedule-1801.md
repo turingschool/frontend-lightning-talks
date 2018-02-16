@@ -20,7 +20,7 @@
 - Lee Graham
 - Megan Kaiser
 - Quinlan Hill
-- Ryan Harrington Algorithms or die - top algorithms programmers should know
+- Ryan Harrington Javascript `this` binding
 - Sage Vogt
 - Seamus Quinn
 - Stephanie Ospina
