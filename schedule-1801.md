@@ -3,7 +3,7 @@
 #### 1:00 PM - 4:00 PM
 
 - Angela Deslandes
-- Austin Wiedenman
+- Austin Wiedenman- #3- javascript prototypes.
 - Cameron Buscher
 - Camilo Snapp
 - Daniela Carey
