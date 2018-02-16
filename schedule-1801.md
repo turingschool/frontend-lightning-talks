@@ -17,7 +17,7 @@
 - Krista Handel
 - Laura Miller
 - Lee Graham
-- Megan Kaiser
+- Megan Kaiser  Tips for crafting your “Developer Identity”
 - Quinlan Hill
 - Ryan Harrington
 - Sage Vogt
