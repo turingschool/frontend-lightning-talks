@@ -15,7 +15,7 @@
 - Jack Laird
 - Jim Dechant
 - Keeliana Marler
-- Krista Handel ---> Front End Hip
+- Krista Handel ---> Front End Hip  
 - Laura Miller
 - Lee Graham
 - Megan Kaiser
