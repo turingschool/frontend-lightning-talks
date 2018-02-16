@@ -2,7 +2,7 @@
 #### Thursday, February 22
 #### 1:00 PM - 4:00 PM
 
-- Austin Wiedenman
+- Austin Wiedenman- 3.  Javscript function prototypes
 - Cameron Buscher
 - Camilo Snapp
 - Daniela Carey
