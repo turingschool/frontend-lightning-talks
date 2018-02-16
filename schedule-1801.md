@@ -22,7 +22,7 @@
 - Quinlan Hill
 - Ryan Harrington
 - Sage Vogt
-- Seamus Quinn
+- Seamus Quinn: Tips for crafting your “Developer Identity”
 - Stephanie Ospina
 - Tony Robertson
 - Tyler McNamara
