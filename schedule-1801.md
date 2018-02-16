@@ -24,4 +24,4 @@
 - Seamus Quinn
 - Stephanie Ospina
 - Tony Robertson
-- Tyler McNamara
+- Tyler McNamara: Media queries - screens + beyond
