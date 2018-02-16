@@ -4,7 +4,7 @@
 
 - Austin Wiedenman
 - Cameron Buscher
-- Camilo Snapp
+- Camilo Snapp - Breaking the problem down + best pseudo coding practices
 - Daniela Carey
 - David Daugherty
 - Eric Jungbluth
