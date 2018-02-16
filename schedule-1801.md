@@ -11,7 +11,7 @@
 - Eric Jungbluth
 - Gavin Love
 - Hannah Bare
-- Helen Dechat
+- Helen Dechat: Breaking the problem down + best pseudo coding practices
 - Jack Laird
 - Jim Dechant
 - Keeliana Marler
