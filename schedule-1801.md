@@ -2,6 +2,7 @@
 #### Thursday, February 22
 #### 1:00 PM - 4:00 PM
 
+- Angela Deslandes
 - Austin Wiedenman
 - Cameron Buscher
 - Camilo Snapp
