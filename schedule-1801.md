@@ -15,7 +15,7 @@
 - Jim Dechant
 - Keeliana Marler
 - Krista Handel
-- Laura Miller
+- Laura Miller  6.  Accessibility do’s and don’ts and/or deep dives
 - Lee Graham
 - Megan Kaiser
 - Quinlan Hill
