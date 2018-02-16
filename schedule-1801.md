@@ -6,7 +6,7 @@
 - Cameron Buscher
 - Camilo Snapp
 - Daniela Carey
-- David Daugherty
+- David Daugherty 16. SVGs - all about them, how to use them, when to use them
 - Eric Jungbluth
 - Gavin Love
 - Hannah Bare
