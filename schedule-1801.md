@@ -12,7 +12,7 @@
 - Gavin Love
 - Hannah Bare
 - Helen Dechat
-- Jack Laird
+- Jack Laird  Web scrapers - the what, the why, the how
 - Jim Dechant
 - Keeliana Marler
 - Krista Handel
