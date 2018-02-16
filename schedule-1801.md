@@ -7,7 +7,7 @@
 - Camilo Snapp
 - Daniela Carey
 - David Daugherty
-- Eric Jungbluth
+- Eric Jungbluth: Linters - what, why, how, types?
 - Gavin Love
 - Hannah Bare
 - Helen Dechat
