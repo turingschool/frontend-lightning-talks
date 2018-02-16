@@ -14,10 +14,7 @@
 - Jack Laird
 - Jim Dechant
 - Keeliana Marler
-- Keila Hoover
-- Kent Huntsman
 - Krista Handel
-- Kylee Wellons
 - Laura Miller
 - Lee Graham
 - Megan Kaiser
@@ -26,6 +23,5 @@
 - Sage Vogt
 - Seamus Quinn
 - Stephanie Ospina
-- Steve Xaysana
 - Tony Robertson
 - Tyler McNamara
