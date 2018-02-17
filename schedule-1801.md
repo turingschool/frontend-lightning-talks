@@ -15,7 +15,7 @@
 - Jack Laird  Web scrapers - the what, the why, the how
 - Jim Dechant
 - Keeliana Marler
-- Krista Handel
+- Krista Handel ---> Front End Hip  
 - Laura Miller
 - Lee Graham
 - Megan Kaiser
