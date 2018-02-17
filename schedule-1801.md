@@ -20,7 +20,7 @@
 - Lee Graham
 - Megan Kaiser
 - Quinlan Hill
-- Ryan Harrington
+- Ryan Harrington Javascript `this` binding
 - Sage Vogt
 - Seamus Quinn: Tips for crafting your “Developer Identity”
 - Stephanie Ospina
