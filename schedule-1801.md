@@ -4,8 +4,11 @@
 
 - Angela Deslandes: ES6
 - Austin Wiedenman
-- Cameron Buscher -- 23. Team collaboration: github/PR etiquette, good workflows, best practices
-- Camilo Snapp
+- Cameron Buscher
+- Camilo Snapp - Breaking the problem down + best pseudo coding practices
+- Daniela Carey
+- Cameron Buscher - Team collaboration: github/PR etiquette, good workflows, best practices
+- Camilo Snapp - Breaking the problem down + psuedo coding practices
 - Daniela Carey: What is this VIM you speak of?
 - David Daugherty
 - Eric Jungbluth: Linters - what, why, how, types?
