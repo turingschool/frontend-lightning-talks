@@ -4,7 +4,7 @@
 
 - Angela Deslandes
 - Austin Wiedenman
-- Cameron Buscher
+- Cameron Buscher -- 23. Team collaboration: github/PR etiquette, good workflows, best practices
 - Camilo Snapp
 - Daniela Carey: What is this VIM you speak of?
 - David Daugherty
