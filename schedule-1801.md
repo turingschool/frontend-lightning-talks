@@ -10,7 +10,7 @@
 - Cameron Buscher - Team collaboration: github/PR etiquette, good workflows, best practices
 - Camilo Snapp - Breaking the problem down + psuedo coding practices
 - Daniela Carey: What is this VIM you speak of?
-- David Daugherty
+- David Daugherty - SVGs - all about them, how to use them, when to use them
 - Eric Jungbluth: Linters - what, why, how, types?
 - Gavin Love
 - Hannah Bare: HTML Canvas
