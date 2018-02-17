@@ -28,7 +28,7 @@
 - Laura Miller - Accessibility do's and don'ts and/or deep dives
 - Lee Graham
 - Megan Kaiser  Tips for crafting your “Developer Identity”
-- Quinlan Hill
+- Quinlan Hill - react - what and why?
 - Ryan Harrington Javascript `this` binding
 - Sage Vogt
 - Seamus Quinn: Tips for crafting your “Developer Identity”
