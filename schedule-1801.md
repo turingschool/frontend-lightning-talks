@@ -21,7 +21,7 @@
 - Krista Handel ---> Front End Hip  
 - Laura Miller - Accessibility do's and don'ts and/or deep dives
 - Lee Graham
-- Megan Kaiser
+- Megan Kaiser  Tips for crafting your “Developer Identity”
 - Quinlan Hill
 - Ryan Harrington Javascript `this` binding
 - Sage Vogt
