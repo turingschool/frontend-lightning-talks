@@ -2,27 +2,30 @@
 #### Thursday, February 22
 #### 1:00 PM - 4:00 PM
 
-- Angela Deslandes
+- Angela Deslandes: ES6
 - Austin Wiedenman
 - Cameron Buscher
-- Camilo Snapp
+- Camilo Snapp - Breaking the problem down + best pseudo coding practices
 - Daniela Carey
-- David Daugherty
-- Eric Jungbluth
-- Gavin Love
-- Hannah Bare
+- Cameron Buscher - Team collaboration: github/PR etiquette, good workflows, best practices
+- Camilo Snapp - Breaking the problem down + psuedo coding practices
+- Daniela Carey: What is this VIM you speak of?
+- David Daugherty - SVGs - all about them, how to use them, when to use them
+- Eric Jungbluth: Linters - what, why, how, types?
+- Gavin Love - Tips for crafting your “Developer Identity”
+- Hannah Bare: HTML Canvas
 - Helen Dechat
-- Jack Laird
+- Jack Laird  Web scrapers - the what, the why, the how
 - Jim Dechant
 - Keeliana Marler
-- Krista Handel
-- Laura Miller
+- Krista Handel ---> Front End Hip  
+- Laura Miller - Accessibility do's and don'ts and/or deep dives
 - Lee Graham
-- Megan Kaiser
+- Megan Kaiser  Tips for crafting your “Developer Identity”
 - Quinlan Hill
-- Ryan Harrington
+- Ryan Harrington Javascript `this` binding
 - Sage Vogt
-- Seamus Quinn
-- Stephanie Ospina:  Algorithms or die - top algorithms programmers should know.
+- Seamus Quinn: Tips for crafting your “Developer Identity”
+- Stephanie Ospina - Algorithms or die - top algorithms programmers should know.
 - Tony Robertson
-- Tyler McNamara
+- Tyler McNamara: Media queries - screens + beyond
