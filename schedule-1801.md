@@ -2,7 +2,7 @@
 #### Thursday, February 22
 #### 1:00 PM - 4:00 PM
 
-- Angela Deslandes
+- Angela Deslandes: ES6
 - Austin Wiedenman
 - Cameron Buscher -- 23. Team collaboration: github/PR etiquette, good workflows, best practices
 - Camilo Snapp
