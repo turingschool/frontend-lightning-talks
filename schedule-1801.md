@@ -7,6 +7,12 @@
 - Cameron Buscher
 - Camilo Snapp - Breaking the problem down + best pseudo coding practices
 - Daniela Carey
+- David Daugherty
+- Eric Jungbluth
+- Gavin Love
+- Hannah Bare
+- Helen Dechat: Breaking the problem down + best pseudo coding practices
+- Jack Laird
 - Cameron Buscher - Team collaboration: github/PR etiquette, good workflows, best practices
 - Camilo Snapp - Breaking the problem down + psuedo coding practices
 - Daniela Carey: What is this VIM you speak of?
@@ -14,7 +20,7 @@
 - Eric Jungbluth: Linters - what, why, how, types?
 - Gavin Love - Tips for crafting your “Developer Identity”
 - Hannah Bare: HTML Canvas
-- Helen Dechat
+- Helen Dechat - Breaking the problem down + best pseudo coding practices
 - Jack Laird  Web scrapers - the what, the why, the how
 - Jim Dechant
 - Keeliana Marler
