@@ -16,7 +16,7 @@
 - Jim Dechant
 - Keeliana Marler
 - Krista Handel ---> Front End Hip  
-- Laura Miller
+- Laura Miller - Accessibility do's and don'ts and/or deep dives
 - Lee Graham
 - Megan Kaiser
 - Quinlan Hill
