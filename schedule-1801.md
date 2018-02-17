@@ -3,7 +3,7 @@
 #### 1:00 PM - 4:00 PM
 
 - Angela Deslandes: ES6
-- Austin Wiedenman
+- Austin Wiedenman - javascript prototypes
 - Cameron Buscher
 - Camilo Snapp - Breaking the problem down + best pseudo coding practices
 - Daniela Carey
