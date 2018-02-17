@@ -8,7 +8,7 @@
 - Camilo Snapp
 - Daniela Carey: What is this VIM you speak of?
 - David Daugherty
-- Eric Jungbluth
+- Eric Jungbluth: Linters - what, why, how, types?
 - Gavin Love
 - Hannah Bare: HTML Canvas
 - Helen Dechat
