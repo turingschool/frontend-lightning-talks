@@ -33,5 +33,5 @@
 - Sage Vogt
 - Seamus Quinn: Tips for crafting your “Developer Identity”
 - Stephanie Ospina - Algorithms or die - top algorithms programmers should know.
-- Tony Robertson
+- Tony Robertson: SVGs - all about them, how to use them, when to use them
 - Tyler McNamara: Media queries - screens + beyond
