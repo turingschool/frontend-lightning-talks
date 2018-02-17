@@ -13,7 +13,7 @@
 - Hannah Bare: HTML Canvas
 - Helen Dechat - Breaking the problem down + best pseudo coding practices
 - Jack Laird  Web scrapers - the what, the why, the how
-- Jim Dechant
+- Jim Dechant - Take your `git` foo to the next level
 - Keeliana Marler
 - Krista Handel ---> Front End Hip  
 - Laura Miller - Accessibility do's and don'ts and/or deep dives
