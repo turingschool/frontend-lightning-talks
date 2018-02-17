@@ -26,6 +26,6 @@
 - Ryan Harrington Javascript `this` binding
 - Sage Vogt
 - Seamus Quinn: Tips for crafting your “Developer Identity”
-- Stephanie Ospina
+- Stephanie Ospina - Algorithms or die - top algorithms programmers should know.
 - Tony Robertson
 - Tyler McNamara: Media queries - screens + beyond
