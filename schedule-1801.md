@@ -17,7 +17,7 @@
 - Keeliana Marler
 - Krista Handel ---> Front End Hip  
 - Laura Miller - Accessibility do's and don'ts and/or deep dives
-- Lee Graham
+- Lee Graham - jQuery chaining - the good, the bad, the ugly
 - Megan Kaiser  Tips for crafting your “Developer Identity”
 - Quinlan Hill - react - what and why?
 - Ryan Harrington Javascript `this` binding
