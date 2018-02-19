@@ -21,7 +21,7 @@
 - Megan Kaiser
 - Quinlan Hill
 - Ryan Harrington
-- Sage Vogt
+- Sage Vogt - WTF Webpack? And why do I care?
 - Seamus Quinn
 - Stephanie Ospina
 - Tony Robertson
