@@ -21,7 +21,7 @@
 - Megan Kaiser  Tips for crafting your “Developer Identity”
 - Quinlan Hill - react - what and why?
 - Ryan Harrington Javascript `this` binding
-- Sage Vogt
+- Sage Vogt - WTF Webpack? And why do I care?
 - Seamus Quinn: Tips for crafting your “Developer Identity”
 - Stephanie Ospina - Algorithms or die - top algorithms programmers should know.
 - Tony Robertson: SVGs - all about them, how to use them, when to use them
