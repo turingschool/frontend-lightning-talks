@@ -14,7 +14,7 @@
 - Helen Dechat - CSS relative units of measure: ems, rems, percentages, viewport measures
 - Jack Laird  Web scrapers - the what, the why, the how
 - Jim Dechant - Take your `git` foo to the next level
-- Keeliana Marler
+- Keeliana Marler - Javscript function prototypes
 - Krista Handel ---> Front End Hip  
 - Laura Miller - Accessibility do's and don'ts and/or deep dives
 - Lee Graham - jQuery chaining - the good, the bad, the ugly
