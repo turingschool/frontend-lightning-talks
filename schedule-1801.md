@@ -24,5 +24,5 @@
 - Sage Vogt - WTF Webpack? And why do I care?
 - Seamus Quinn: D3 Library
 - Stephanie Ospina - Algorithms or die - top algorithms programmers should know.
-- Tony Robertson: SVGs - all about them, how to use them, when to use them
+- Tony Robertson: CSS positioning - all the techniques, pros/cons, results
 - Tyler McNamara: Media queries - screens + beyond
