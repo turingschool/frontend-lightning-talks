@@ -9,7 +9,7 @@
 - Daniela Carey: What is this VIM you speak of?
 - David Daugherty - SVGs - all about them, how to use them, when to use them
 - Eric Jungbluth: Linters - what, why, how, types?
-- Gavin Love - 
+- Gavin Love - Pairing approaches - all the types and pros/cons
 - Hannah Bare: HTML Canvas
 - Helen Dechat - CSS relative units of measure: ems, rems, percentages, viewport measures
 - Jack Laird  Web scrapers - the what, the why, the how
