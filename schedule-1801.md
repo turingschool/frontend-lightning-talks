@@ -11,7 +11,7 @@
 - Eric Jungbluth: Linters - what, why, how, types?
 - Gavin Love - 
 - Hannah Bare: HTML Canvas
-- Helen Dechat - Breaking the problem down + best pseudo coding practices
+- Helen Dechat - 
 - Jack Laird  Web scrapers - the what, the why, the how
 - Jim Dechant - Take your `git` foo to the next level
 - Keeliana Marler
