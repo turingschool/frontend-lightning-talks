@@ -29,7 +29,7 @@ Megan Haubelt - CSS relative units of measure: ems, rems, percentages, viewport 
 4.  jQuery chaining - the good, the bad, the ugly
 5.  Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
-7.  Joel O'Connor: CSS positioning - all the techniques, pros/cons, results
+Joel O'Connor: CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond
 9.  Javscript - closures
 10. Object Oriented Programming
@@ -44,9 +44,9 @@ Brian Weikel -CSS optimization - easy wins and gotchas
 TODD AYRES - React - what and why?
 20. Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
-22. Chris Boylen:  Tips for crafting your “Developer Identity”
+Chris Boylen:  Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
-24. Gavin Love: Breaking the problem down + best pseudo coding practices
+Gavin Love: Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
 Megan Haubel - CSS Styleguides
 Andrew James -Linters - what, why, how, types?
