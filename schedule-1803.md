@@ -33,7 +33,7 @@
 8.  Media queries - screens + beyond Kylee W.
 9.  Javscript - closures
 10. Object Oriented Programming
-11. -Marika: What is this VIM you speak of?
+Marika - What is this VIM you speak of?
 12. Client side security + hacking
 13. ES6
 14. D3 library
