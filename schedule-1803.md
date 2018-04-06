@@ -30,7 +30,7 @@ Arram - Javascript `this` binding
 5.  Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
 Joel O'Connor: CSS positioning - all the techniques, pros/cons, results
-8.  Media queries - screens + beyond
+Kylee W - Media queries - screens + beyond
 9.  Javscript - closures
 10. Object Oriented Programming
 Marika - What is this VIM you speak of?
