@@ -63,7 +63,7 @@
 2. Edit the `schedule-1708.md` file by inserting your topic next to your name. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation. 
 
   ```
-  - Penelope: History of Women In Tech 
+  - Arram Mande: SVGs - all about them, how to use them, when to use them
   ```
 
 3. Submit a Pull Request *to this repository* (not your forked repo), titled like so: `FirstName LastName: Title of Talk`
