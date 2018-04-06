@@ -23,8 +23,8 @@
 ### Topic Selection List
 
 ```
-1.  CSS relative units of measure: ems, rems, percentages, viewport measures --Brian Tiedt
-2.  Javascript `this` binding 
+1.  CSS relative units of measure: ems, rems, percentages, viewport measures
+2.  Javascript `this` binding
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 5.  Web scrapers - the what, the why, the how
@@ -37,11 +37,11 @@
 12. Client side security + hacking
 13. ES6
 14. D3 library
-15. David Dunn: HTML Canvas
-16. Alex Bruce - SVGs - all about them, how to use them, when to use them
+David Dunn -HTML Canvas
+Alex Bruce - SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
-Brian Weikel 18. CSS optimization - easy wins and gotchas
-TODD AYRES React - what and why?
+Brian Weikel -CSS optimization - easy wins and gotchas
+TODD AYRES - React - what and why?
 20. Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 22. Tips for crafting your “Developer Identity”
@@ -49,13 +49,12 @@ TODD AYRES React - what and why?
 24. Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
 26. CSS Styleguides
-27. - Andrew James: Linters - what, why, how, types?
-28. Tory D: Take your `git` foo to the next level
+Andrew James -Linters - what, why, how, types?
+Tory D - Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
-30. Hacking the FE interview
-31. Kevin Krom: Who want's to be a ScrumDog-Millionaire? The benefits of Scrum Methodology
-32. Jeremiah: Building a Website in Layers: Leveraging the Z-Index and Opacity for Visual Interest
-
+Jesse - Hacking the FE interview
+Kevin Krom - Who want's to be a ScrumDog-Millionaire? The benefits of Scrum Methodology
+Jeremiah - Building a Website in Layers: Leveraging the Z-Index and Opacity for Visual Interest
 ```
 
 ---
