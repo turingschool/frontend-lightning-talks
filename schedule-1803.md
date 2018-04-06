@@ -23,7 +23,7 @@
 ### Topic Selection List
 
 ```
-1.  CSS relative units of measure: ems, rems, percentages, viewport measures
+Megan Haubelt - CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Javascript `this` binding
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
@@ -48,7 +48,7 @@ TODD AYRES - React - what and why?
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 24. Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
-26. CSS Styleguides
+Megan Haubel - CSS Styleguides
 Andrew James -Linters - what, why, how, types?
 Tory D - Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
