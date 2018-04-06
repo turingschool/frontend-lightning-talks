@@ -50,7 +50,7 @@
 25. WTF Webpack? And why do I care?
 26. CSS Styleguides
 27. Linters - what, why, how, types?
-28. Take your `git` foo to the next level
+28. Tory D: Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
 ```
