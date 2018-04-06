@@ -53,7 +53,9 @@ TODD AYRES React - what and why?
 28. Tory D: Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
-31. Jeremiah: Building a Website in Layers: Leveraging the Z-Index and Opacity for Visual Interest
+31. Kevin Krom: Who want's to be a ScrumDog-Millionaire? The benefits of Scrum Methodology
+32. Jeremiah: Building a Website in Layers: Leveraging the Z-Index and Opacity for Visual Interest
+
 ```
 
 ---
