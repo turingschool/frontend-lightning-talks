@@ -50,7 +50,7 @@ TODD AYRES React - what and why?
 25. WTF Webpack? And why do I care?
 26. CSS Styleguides
 27. - Andrew James: Linters - what, why, how, types?
-28. Take your `git` foo to the next level
+28. Tory D: Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
 31. Jeremiah: Building a Website in Layers: Leveraging the Z-Index and Opacity for Visual Interest
