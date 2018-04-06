@@ -53,6 +53,7 @@
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
+31. Jeremiah: Building a Website in Layers: Leveraging the Z-Index and Opacity for Visual Interest
 ```
 
 ---
