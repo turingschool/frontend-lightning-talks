@@ -23,25 +23,25 @@
 ### Topic Selection List
 
 ```
-1.  CSS relative units of measure: ems, rems, percentages, viewport measures
-2.  Javascript `this` binding
+1.  CSS relative units of measure: ems, rems, percentages, viewport measures --Brian Tiedt
+2.  Javascript `this` binding 
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 5.  Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
-8.  Media queries - screens + beyond
+8.  Media queries - screens + beyond Kylee W.
 9.  Javscript - closures
 10. Object Oriented Programming
 11. What is this VIM you speak of?
 12. Client side security + hacking
 13. ES6
 14. D3 library
-15. HTML Canvas
+15. David Dunn: HTML Canvas
 16. Alex Bruce - SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
-18. CSS optimization - easy wins and gotchas
-19. React - what and why?
+Brian Weikel 18. CSS optimization - easy wins and gotchas
+TODD AYRES React - what and why?
 20. Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 22. Tips for crafting your “Developer Identity”
