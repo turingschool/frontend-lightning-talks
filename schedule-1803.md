@@ -23,38 +23,38 @@
 ### Topic Selection List
 
 ```
-Megan Haubelt - CSS relative units of measure: ems, rems, percentages, viewport measures
-Arram - Javascript `this` binding
+- Megan Haubelt: CSS relative units of measure: ems, rems, percentages, viewport measures
+- Arram: Javascript `this` binding
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 5.  Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
-Joel O'Connor: CSS positioning - all the techniques, pros/cons, results
-Kylee W - Media queries - screens + beyond
+- Joel O'Connor: CSS positioning - all the techniques, pros/cons, results
+- Kylee W: Media queries - screens + beyond
 9.  Javscript - closures
 10. Object Oriented Programming
-Marika - What is this VIM you speak of?
+- Marika: What is this VIM you speak of?
 12. Client side security + hacking
 13. ES6
-14. D3 library
-David Dunn -HTML Canvas
-Alex Bruce - SVGs - all about them, how to use them, when to use them
+- Dave Stonecipher: D3 library
+- David Dunn: HTML Canvas
+- Alex Bruce: SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
-Brian Weikel -CSS optimization - easy wins and gotchas
-TODD AYRES - React - what and why?
+- Brian Weikel: CSS optimization - easy wins and gotchas
+- Todd Ayres: React - what and why?
 20. Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
-Chris Boylen:  Tips for crafting your “Developer Identity”
+- Chris Boylen: Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
-Gavin Love: Breaking the problem down + best pseudo coding practices
+- Gavin Love: Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
-Megan Haubel - CSS Styleguides
-Andrew James -Linters - what, why, how, types?
-Tory D - Take your `git` foo to the next level
+- Megan Haubel: CSS Styleguides
+- Andrew James: Linters - what, why, how, types?
+- Tory D: Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
-Jesse - Hacking the FE interview
-Kevin Krom - Who want's to be a ScrumDog-Millionaire? The benefits of Scrum Methodology
-Jeremiah - Building a Website in Layers: Leveraging the Z-Index and Opacity for Visual Interest
+- Jesse: Hacking the FE interview
+- Kevin Krom: Who want's to be a ScrumDog-Millionaire? The benefits of Scrum Methodology
+- Jeremiah: Building a Website in Layers: Leveraging the Z-Index and Opacity for Visual Interest
 ```
 
 ---
