@@ -51,7 +51,7 @@
 - Megan Haubel: CSS Styleguides
 - Andrew James: Linters - what, why, how, types?
 - Tory D: Take your `git` foo to the next level
-29. Algorithms or die - top algorithms programmers should know
+- Brian Tiedt: Algorithms or die - top algorithms programmers should know
 - Jesse: Hacking the FE interview
 - Kevin Krom: Who want's to be a ScrumDog-Millionaire? The benefits of Scrum Methodology
 - Jeremiah: Building a Website in Layers: Leveraging the Z-Index and Opacity for Visual Interest
