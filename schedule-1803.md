@@ -42,7 +42,7 @@
 17. Acceptance testing - what and why?
 - Brian Weikel: CSS optimization - easy wins and gotchas
 - Todd Ayres: React - what and why?
-20. Front End Hip - how to stay in the know on all the things
+20. Laura Miller: Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 - Chris Boylen: Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
