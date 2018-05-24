@@ -52,7 +52,7 @@ Spenser - Front End Hip - how to stay in the know on all the things
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
-30. Hacking the FE interview
+30. Kevin Ryan Hacking the FE interview
 ```
 
 ---
