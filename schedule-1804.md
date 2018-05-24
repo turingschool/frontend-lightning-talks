@@ -48,7 +48,7 @@ Spenser - Front End Hip - how to stay in the know on all the things
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 24. Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
-26. CSS Styleguides
+26. Kiel Dehnert-CSS Styleguides
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
