@@ -30,14 +30,14 @@
 5.  Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
-Tom King -  Media queries - screens + beyond
+8.  Media queries - screens + beyond
 9.  Javscript - closures
 10. Object Oriented Programming
 11. What is this VIM you speak of?
 12. Client side security + hacking
 13. ES6
 14. D3 library
-15. HTML Canvas
+Tom King HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
