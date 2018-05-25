@@ -45,7 +45,7 @@ Laura:  CSS relative units of measure: ems, rems, percentages, viewport measures
 Spenser - Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 22. - Cody:  Tips for crafting your “Developer Identity”
-23. Team collaboration: github/PR etiquette, good workflows, best practices
+23. Team collaboration: github/PR etiquette, good workflows, best practices Kevin Ryan
 24. Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
 26. Kiel Dehnert-CSS Styleguides
@@ -53,7 +53,6 @@ Spenser - Front End Hip - how to stay in the know on all the things
 Justin Highland 28. Take your `git` foo to the next level
 Tom King Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview -MICHAEL LYONS
-
 ```
 
 ---
