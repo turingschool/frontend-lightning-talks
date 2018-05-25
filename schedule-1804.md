@@ -40,7 +40,7 @@ Laura:  CSS relative units of measure: ems, rems, percentages, viewport measures
 15. HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
-18. CSS optimization - easy wins and gotchas
+18. CSS optimization - easy wins and gotchas - James Burbage
 19. React - what and why? - Nick Dambrosio
 Spenser - Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
