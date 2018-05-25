@@ -23,7 +23,7 @@
 ### Topic Selection List
 
 ```
-1.  CSS relative units of measure: ems, rems, percentages, viewport measures
+Laura:  CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Javascript `this` binding
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
@@ -35,24 +35,24 @@
 10. Object Oriented Programming
 11. What is this VIM you speak of?
 12. Client side security + hacking
-13. ES6
+13. Benjamin Paige - ES6
 14. D3 library
-15. HTML Canvas
+15. HTML Canvas - KURT MILLER
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
-18. CSS optimization - easy wins and gotchas
-19. React - what and why?
+18. CSS optimization - easy wins and gotchas - James Burbage
+19. React - what and why? - Nick Dambrosio
 Spenser - Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
-22. Tips for crafting your “Developer Identity”
+22. - Cody:  Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices Kevin Ryan
 24. Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
-26. CSS Styleguides
+26. Kiel Dehnert-CSS Styleguides
 27. Linters - what, why, how, types?
-28. Take your `git` foo to the next level
-29. Algorithms or die - top algorithms programmers should know
-30. Kevin Ryan Hacking the FE interview
+Justin Highland 28. Take your `git` foo to the next level
+Tom King Algorithms or die - top algorithms programmers should know
+30. Hacking the FE interview -MICHAEL LYONS
 ```
 
 ---
