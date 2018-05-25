@@ -66,7 +66,7 @@ Justin Highland 28. Take your `git` foo to the next level
   - Penelope: History of Women In Tech 
   ```
 
-3. Submit a Pull Request *to this repository* (not your forked repo), titled like so: `FirstName LastName: Title of Talk`
+3. Submit a Pull Request *to this repository* (not your forked repo), titled like so: `Gray Smith: ES6`
 
   * Note: We review submissions based on when pull requests are submitted. *You may not see that a topic has been taken if we have not yet merged an earlier pull request to master. We'll let you know as quickly as possible if your proposed topic is already taken.*
 
