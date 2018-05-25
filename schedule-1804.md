@@ -24,7 +24,7 @@
 
 ```
 Laura:  CSS relative units of measure: ems, rems, percentages, viewport measures
-2.  Javascript `this` binding
+Gray: Javascript `this` binding
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 Tim Fischer: Web scrapers - the what, the why, the how r
@@ -66,7 +66,7 @@ Michael Lyons: Hacking the FE interview
   - Penelope: History of Women In Tech 
   ```
 
-3. Submit a Pull Request *to this repository* (not your forked repo), titled like so: `Gray Smith: Javascript 'this' binding`
+3. Submit a Pull Request *to this repository* (not your forked repo), titled like so: `FirstName LastName: Title of Talk`
 
   * Note: We review submissions based on when pull requests are submitted. *You may not see that a topic has been taken if we have not yet merged an earlier pull request to master. We'll let you know as quickly as possible if your proposed topic is already taken.*
 
