@@ -37,7 +37,7 @@ Laura:  CSS relative units of measure: ems, rems, percentages, viewport measures
 12. Client side security + hacking
 13. Benjamin Paige - ES6
 14. D3 library
-13. HTML Canvas
+15. HTML Canvas - KURT MILLER
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas - James Burbage
