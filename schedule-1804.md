@@ -25,7 +25,7 @@
 ```
 Laura:  CSS relative units of measure: ems, rems, percentages, viewport measures
 Gray: Javascript `this` binding
-Brian Tiedt: Javscript function prototypes
+Brian Tiedt: Javascript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 Tim Fischer: Web scrapers - the what, the why, the how r
 Derek: Accessibility do’s and don’ts and/or deep dive
