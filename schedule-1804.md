@@ -37,7 +37,7 @@ Laura:  CSS relative units of measure: ems, rems, percentages, viewport measures
 12. Client side security + hacking
 13. Benjamin Paige - ES6
 14. D3 library
-15. HTML Canvas
+13. HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas - James Burbage
@@ -51,8 +51,9 @@ Spenser - Front End Hip - how to stay in the know on all the things
 26. CSS Styleguides
 27. Linters - what, why, how, types?
 Justin Highland 28. Take your `git` foo to the next level
-29. Algorithms or die - top algorithms programmers should know
+Tom King Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview -MICHAEL LYONS
+
 ```
 
 ---
