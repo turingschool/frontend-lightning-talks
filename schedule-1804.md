@@ -42,7 +42,7 @@ Kurt Miller: HTML Canvas
 17. Acceptance testing - what and why?
 James Burbage: CSS optimization - easy wins and gotchas
 Nick Dambrosio: React - what and why?
-Spenser - Front End Hip - how to stay in the know on all the things
+20. Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 Cody:  Tips for crafting your “Developer Identity”
 Kevin Ryan: Team collaboration: github/PR etiquette, good workflows, best practices Kevin Ryan
