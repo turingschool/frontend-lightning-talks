@@ -29,7 +29,7 @@ Brian Tiedt: Javascript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 Tim Fischer: Web scrapers - the what, the why, the how r
 Derek: Accessibility do’s and don’ts and/or deep dive
-7.  CSS positioning - all the techniques, pros/cons, results
+Alex Bruce -  CSS positioning - all the techniques, pros/cons, results
 Dennis Miller: Media queries - screens + beyond 
 Paul: Javascript - closures
 10. Object Oriented Programming
