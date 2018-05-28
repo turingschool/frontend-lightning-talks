@@ -32,7 +32,7 @@ Derek: Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
 Dennis Miller: Media queries - screens + beyond 
 Paul: Javascript - closures
-10. Object Oriented Programming
+10. Brandon Fiebiger - Object Oriented Programming
 11. What is this VIM you speak of?
 12. Client side security + hacking
 Benjamin Paige - ES6
