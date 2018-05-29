@@ -49,7 +49,7 @@ Kevin Ryan: Team collaboration: github/PR etiquette, good workflows, best practi
 Brandon C: Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
 Kiel Dehnert: CSS Styleguides
-27. Linters - what, why, how, types?
+Kent: Linters - what, why, how, types?
 Justin Highland: Take your `git` foo to the next level
 Tom King: Algorithms or die - top algorithms programmers should know
 Michael Lyons: Hacking the FE interview
