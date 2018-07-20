@@ -12,7 +12,7 @@
 8.  Media queries - screens + beyond
 9.  Javscript - closures
 10. Object Oriented Programming
-11. Drake - What is this VIM you speak of?
+Drake Bott - What is this VIM you speak of?
 12. Client side security + hacking
 13. ES6
 14. D3 library
