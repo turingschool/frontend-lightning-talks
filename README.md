@@ -21,7 +21,7 @@
 ---
 
 ### Topic Selection List
-
+Aaron: How to give a persuasive technical presentation
 ```
 1.  CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Javascript `this` binding
