@@ -9,9 +9,7 @@
 5. - Justin Torrance:  Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
-
-Alexander Rau: Media queries - screens + beyond
-
+8. - Alexander Rau: Media queries - screens + beyond
 9.  Javscript - closures
 10. - Freddie Levenson - Object Oriented Programming
 11. What is this VIM you speak of?
