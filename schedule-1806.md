@@ -11,7 +11,7 @@
 7.  CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond
 9.  Javscript - closures
-Freddie Levenson - Object Oriented Programming
+10. - Freddie Levenson - Object Oriented Programming
 11. What is this VIM you speak of?
 12. Client side security + hacking
 13. - Chris: ES6
@@ -21,7 +21,7 @@ Freddie Levenson - Object Oriented Programming
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
 19. React - what and why?
-Ashton Bailey Front End Hip - how to stay in the know on all the things
+20. - Ashton Bailey Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 22. Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
