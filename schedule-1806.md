@@ -17,7 +17,7 @@
 13. - Chris: ES6
 14. D3 library
 15. HTML Canvas
-16. SVGs - all about them, how to use them, when to use them
+16. SVGs - all about them, how to use them, when to use them  Sara Ebbers
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas - James Burbage
 19. React - what and why?
