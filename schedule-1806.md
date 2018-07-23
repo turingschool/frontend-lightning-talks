@@ -6,7 +6,7 @@
 2.  Javascript `this` binding
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
-Justin Torrance:  Web scrapers - the what, the why, the how
+5. - Justin Torrance:  Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond
@@ -14,7 +14,7 @@ Justin Torrance:  Web scrapers - the what, the why, the how
 10. Object Oriented Programming
 11. What is this VIM you speak of?
 12. Client side security + hacking
-Chris: ES6
+13. - Chris: ES6
 14. D3 library
 15. HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
