@@ -12,7 +12,7 @@
 8. - Alexander Rau: Media queries - screens + beyond
 9.  Javscript - closures
 10. - Freddie Levenson - Object Oriented Programming
-11. What is this VIM you speak of?
+11. - Drake Bott - What is this VIM you speak of?
 12. Client side security + hacking
 13. - Chris: ES6
 14. D3 library
