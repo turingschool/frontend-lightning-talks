@@ -11,7 +11,7 @@
 7.  CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond
 9.  Javscript - closures
-10. Object Oriented Programming
+Freddie Levenson - Object Oriented Programming
 11. What is this VIM you speak of?
 12. Client side security + hacking
 13. - Chris: ES6
@@ -27,7 +27,7 @@ Ashton Bailey Front End Hip - how to stay in the know on all the things
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 24. - Brandon Cunningham - Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
-26. CSS Styleguides
+26.  CSS Styleguides
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
