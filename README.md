@@ -70,3 +70,9 @@
 	* Note: We review submissions based on when pull requests are submitted. *You may not see that a topic has been taken if we have not yet merged an earlier pull request to master. We'll let you know as quickly as possible if your proposed topic is already taken.*
 
 4. At some point before the day of your lightning talk, touch base with your instructors to run through your content. **You** are responsible for reaching out to schedule this. It is not required to physically meet (unless you'd like) - An outline of your talk via Slack is sufficient for approval.
+
+---- 
+
+### Resources 
+* [Rails Conf Lightning Talk Videos](https://www.youtube.com/watch?v=DHHHnPwSY5I)
+	- Check out the collection of videos from Rails Conf for insight on what lightning talks look/feel like. 
