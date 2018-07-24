@@ -6,7 +6,7 @@
 1.  - Joel: CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Javascript `this` binding
 3.  Javscript function prototypes
-4.  jQuery chaining - the good, the bad, the ugly
+4.  - Jessica jQuery chaining - the good, the bad, the ugly
 5. - Justin Torrance:  Web scrapers - the what, the why, the how
 6. - Casey Hoepner: Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
