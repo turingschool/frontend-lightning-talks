@@ -7,7 +7,7 @@
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 5.  Web scrapers - the what, the why, the how
-Tobin Nelson- Accessibility do’s and don’ts and/or deep dive
+4. Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond
 9.  Javscript - closures
@@ -28,7 +28,7 @@ Tobin Nelson- Accessibility do’s and don’ts and/or deep dive
 24. Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
 26. CSS Styleguides
-27. Linters - what, why, how, types?
+Tobin N. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
