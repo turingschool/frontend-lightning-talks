@@ -8,7 +8,7 @@
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 5. - Justin Torrance:  Web scrapers - the what, the why, the how
-6.  Casey Hoepner: Accessibility do’s and don’ts and/or deep dive
+6. - Casey Hoepner: Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
 8. - Alexander Rau: Media queries - screens + beyond
 9.  Javscript - closures
@@ -33,7 +33,7 @@
 28. Take your `git` foo to the next level
 29. - Alex Ela - Algorithms or die - top algorithms programmers should know
 30. - Kevin Ryan - Hacking the FE interview
-31. Graham Munro: How to setup your Terminal workflow and save time like a BOSS.
-32. Aaron Weissman: Giving a Persuasive Technical Presentation
+31. - Graham Munro: How to setup your Terminal workflow and save time like a BOSS.
+32. - Aaron Weissman: Giving a Persuasive Technical Presentation
 
 
