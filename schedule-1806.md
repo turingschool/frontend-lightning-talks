@@ -7,7 +7,7 @@
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 5. - Justin Torrance:  Web scrapers - the what, the why, the how
-6.  Accessibility do’s and don’ts and/or deep dive
+6.  Casey Hoepner: Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
 8. - Alexander Rau: Media queries - screens + beyond
 9.  Javscript - closures
