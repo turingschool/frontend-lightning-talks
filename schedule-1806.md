@@ -40,3 +40,4 @@
 31. - Graham Munro: How to setup your Terminal workflow and save time like a BOSS.
 32. - Aaron Weissman: Giving a Persuasive Technical Presentation
 33. - Derek Hanciles: Practice - We Talking About Practice?
+34. - Cierra Washington: Breaks and Your Brain
