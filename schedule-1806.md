@@ -2,6 +2,7 @@
 #### Thursday, July 26
 #### 1:00 PM - 4:00 PM
 
+
 1.  - Joel: CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Javascript `this` binding
 3.  Javscript function prototypes
@@ -33,3 +34,6 @@
 29. - Alex Ela - Algorithms or die - top algorithms programmers should know
 30. - Kevin Ryan - Hacking the FE interview
 31. Graham Munro: How to setup your Terminal workflow and save time like a BOSS.
+32. Aaron Weissman: Giving a Persuasive Technical Presentation
+
+
