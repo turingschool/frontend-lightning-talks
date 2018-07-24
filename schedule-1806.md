@@ -30,7 +30,7 @@
 22. Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 24. - Brandon Cunningham - Breaking the problem down + best pseudo coding practices
-25. WTF Webpack? And why do I care?
+25. - Mark P: WTF Webpack? And why do I care?
 26. - Ahmad K --- CSS Styleguides
 27. - Tobin N. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
