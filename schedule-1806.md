@@ -11,10 +11,10 @@
 6. - Casey Hoepner: Accessibility do’s and don’ts and/or deep dive
 7.  --Justin --CSS positioning - all the techniques, pros/cons, results
 8. - Alexander Rau: Media queries - screens + beyond
-9.  Javscript - closures
+9.  Javscript - closures-
 10. - Freddie Levenson - Object Oriented Programming
 11. - Drake Bott - What is this VIM you speak of?
-12. Client side security + hacking
+12. Client side security + hacking - Sabrin 
 13. - Chris: ES6
 14. D3 library
 15. -  Cole Hart: HTML Canvas
