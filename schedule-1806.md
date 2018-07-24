@@ -31,7 +31,7 @@
 26. CSS Styleguides
 27. Linters - what, why, how, types?
 24. - Brandon Cunningham - Breaking the problem down + best pseudo coding practices
-25. WTF Webpack? And why do I care?
+25. - Mark P: WTF Webpack? And why do I care?
 26. - Ahmad K --- CSS Styleguides
 27. - Tobin N. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
