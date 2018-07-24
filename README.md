@@ -21,7 +21,6 @@
 ---
 
 ### Topic Selection List
-
 ```
 1.  CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Javascript `this` binding
