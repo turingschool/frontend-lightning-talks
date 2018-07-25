@@ -28,7 +28,7 @@
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 24. Breaking the problem down + best pseudo coding practices
 25. Ben Hayek WTF Webpack? And why do I care?
-26. CSS Styleguides
+26. - Lindsey Wilhite - CSS Styleguides
 27. Linters - what, why, how, types?
 24. - Brandon Cunningham - Breaking the problem down + best pseudo coding practices
 25. - Mark P: WTF Webpack? And why do I care?
