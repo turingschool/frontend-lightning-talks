@@ -25,8 +25,7 @@
 20. - Ashton Bailey Front End Hip - how to stay in the know on all the things
 21. - Kevin Simpson - Pairing approaches - all the types and pros/cons
 22. -Dina -- Tips for crafting your “Developer Identity”
-23. Team collaboration: github/PR etiquette, good workflows, best practices
-24. Breaking the problem down + best pseudo coding practices
+23. Laura Shamus - Team collaboration: github/PR etiquette, good workflows, best practices
 25. Ben Hayek WTF Webpack? And why do I care?
 26. - Lindsey Wilhite - CSS Styleguides
 27. Linters - what, why, how, types?
