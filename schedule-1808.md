@@ -60,7 +60,7 @@
 ### How To
 
 1. Fork this repository 
-2. Edit the `schedule-1806.md` file by inserting your topic next to your name. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation. 
+2. Edit the `schedule-1808.md` file by inserting your topic next to your name. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation. 
 
 	```
 	- Penelope: History of Women In Tech 
