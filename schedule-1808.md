@@ -55,6 +55,7 @@
 30. Hacking the FE interview
 ```
 
+- Jake Lauer: CSS Animations
 ---
 
 ### How To
