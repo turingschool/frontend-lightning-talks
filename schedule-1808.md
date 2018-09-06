@@ -53,9 +53,7 @@
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
-```
-
-- Jake Lauer: CSS Animations
+31. CSS Animations: Jake Lauer
 ---
 
 ### How To
