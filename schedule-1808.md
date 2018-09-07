@@ -51,7 +51,7 @@
 26. CSS Styleguides
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
-29. Algorithms or die - top algorithms programmers should know
+29. Elly: Algorithms or die - top algorithms programmers should know
 30. ASHLEY LEVI- Hacking the FE interview
 ```
 
