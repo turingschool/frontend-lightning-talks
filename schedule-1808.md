@@ -34,7 +34,7 @@
 9.  Javscript - closures
 10. Object Oriented Programming
 11. What is this VIM you speak of?
-12. Client side security + hacking
+12. Theo Client side security + hacking
 13. - Kylie Stanley: ES6
 14. D3 library
 15. Jamie Rushford - HTML Canvas
