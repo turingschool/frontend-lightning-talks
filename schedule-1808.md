@@ -45,9 +45,7 @@
 20. Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 22. Tips for crafting your “Developer Identity”
-'''
 -Eric 23.  Team collaboration: github/PR etiquette, good workflows, best practices
-'''
 24. Breaking the problem down + best pseudo coding practices
 25. Chris: WTF Webpack? And why do I care?
 26. CSS Styleguides
@@ -56,6 +54,7 @@
 29. Elly: Algorithms or die - top algorithms programmers should know
 30. ASHLEY LEVI- Hacking the FE interview
 31. CSS Animations: Jake Lauer
+32. Mariel: Why is Accessibility a Human Rights Issue? 
 ```
 
 ---
