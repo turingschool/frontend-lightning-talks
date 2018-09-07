@@ -59,6 +59,8 @@
 33. - Matt Franzen: ARPANET
 ```
 
+new topic: User research is at the heart of designing a good user experience - Paul Vangelakos
+
 ---
 
 ### How To
