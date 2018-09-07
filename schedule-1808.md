@@ -53,6 +53,7 @@
 28. Take your `git` foo to the next level
 29. Elly: Algorithms or die - top algorithms programmers should know
 30. ASHLEY LEVI- Hacking the FE interview
+31. CSS Animations: Jake Lauer
 ```
 
 ---
