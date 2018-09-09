@@ -36,7 +36,7 @@
 11. What is this VIM you speak of?
 12. Theo Client side security + hacking
 13. - Kylie Stanley: ES6
-14. D3 library
+14. Kaylee Bunce - D3 library
 15. Jamie Rushford - HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
