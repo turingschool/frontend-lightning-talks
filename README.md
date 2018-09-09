@@ -32,12 +32,12 @@
 8.  Media queries - screens + beyond
 9.  Javscript - closures
 10. Object Oriented Programming
-11. What is this VIM you speak of?
+11. -Cody: What is this VIM you speak of?
 12. Client side security + hacking
 13. ES6
 14. D3 library
 15. HTML Canvas
-16. SVGs - all about them, how to use them, when to use them
+16. David Cisneros: SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
 19. React - what and why?
@@ -48,7 +48,7 @@
 24. Breaking the problem down + best pseudo coding practices
 25. WTF Webpack? And why do I care?
 26. CSS Styleguides
-27. Linters - what, why, how, types?
+27. mike duke: Linters - what, why, how, types?
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
