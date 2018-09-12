@@ -44,7 +44,7 @@
 19. React - what and why?--Sabrin
 20. Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons - ADAM NIEDZWIECKI 
-22. Tips for crafting your “Developer Identity”
+22. Lindsey W. Tips for crafting your “Developer Identity”
 24. Breaking the problem down + best pseudo coding practices - Libby Yeh
 -Eric 23.  Team collaboration: github/PR etiquette, good workflows, best practices
 24. Breaking the problem down + best pseudo coding practices
