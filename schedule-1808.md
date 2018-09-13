@@ -58,6 +58,7 @@
 32. Mariel: Why is Accessibility a Human Rights Issue? 
 33. - Matt Franzen: ARPANET
 new topic: User research is at the heart of designing a good user experience - Paul Vangelakos
+New Topic: Design & Dyslexia - Kristen Hallstrom
 ```
 
 ---
