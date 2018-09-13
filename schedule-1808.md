@@ -38,7 +38,7 @@
 13. - Kylie Stanley: ES6
 14. Kaylee Bunce - D3 library
 15. Jamie Rushford - HTML Canvas
-16. SVGs - all about them, how to use them, when to use them
+16. Cole Vanacore---SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
 19. React - what and why?--Sabrin
