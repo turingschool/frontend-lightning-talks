@@ -52,7 +52,7 @@
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
 29. Jeo: Algorithms or die - top algorithms programmers should know
-30. Hacking the FE interview
+30. David @Little D Hacking the FE interview
 ```
 
 ---
