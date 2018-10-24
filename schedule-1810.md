@@ -53,6 +53,7 @@
 28. Take your `git` foo to the next level
 29. Jeo: Algorithms or die - top algorithms programmers should know
 30. David @Little D Hacking the FE interview
+31. Eric W - You made an app. Now what? Your guide to navigating a competitive landscape!
 ```
 
 ---
