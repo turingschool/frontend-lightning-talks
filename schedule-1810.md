@@ -36,11 +36,11 @@
 11. Shannon Moranetz: What is this VIM you speak of?
 12. Client side security + hacking
 13. ES6
-14. D3 library
+14. Whitney Burton - D3 library
 15. HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
-18. CSS optimization - easy wins and gotchas
+18. Heather: CSS optimization - easy wins and gotchas
 19. React - what and why?
 20. Tom Wilhoit - Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
@@ -52,8 +52,9 @@
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
 29. Jeo: Algorithms or die - top algorithms programmers should know
-30. Hacking the FE interview
-99. Travis - bash editing, carpal tunnel & you
+30. David @Little D Hacking the FE interview
+31. Eric W - You made an app. Now what? Your guide to navigating a competitive landscape!
+32. Travis - bash editing, carpal tunnel & you
 ```
 
 ---
