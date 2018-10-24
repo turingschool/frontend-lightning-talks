@@ -53,6 +53,7 @@
 28. Take your `git` foo to the next level
 29. Jeo: Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
+99. Travis - bash editing, carpal tunnel & you
 ```
 
 ---
