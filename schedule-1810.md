@@ -38,7 +38,7 @@
 13. ES6
 14. Whitney Burton - D3 library
 15. HTML Canvas
-16. SVGs - all about them, how to use them, when to use them
+16. Gabriel - SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. Heather: CSS optimization - easy wins and gotchas
 19. React - what and why?
