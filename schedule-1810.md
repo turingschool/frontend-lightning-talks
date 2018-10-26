@@ -31,7 +31,7 @@
 6.  Tiffany Bachmann - Accessibility do’s and don’ts and/or deep dive
 7.  Matthew Foxwell - CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond
-9.  Javscript - closures
+9.  Justin D - Javscript - closures
 10. Duy Vu-Object Oriented Programming
 11. Shannon Moranetz: What is this VIM you speak of?
 12. Client side security + hacking
