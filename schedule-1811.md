@@ -52,6 +52,7 @@
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Tim Miller - Hacking the FE interview
+31. Mariel Waters - Accessibility & Human Rights: Why and How
 ```
 
 ---
