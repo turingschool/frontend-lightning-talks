@@ -31,7 +31,7 @@
 7.  Raechel O - CSS positioning - all the techniques, pros/cons, results
 8.  Michael King-Stockton - Media queries - screens + beyond
 9.  Javscript - closures
-10. Object Oriented Programming
+10. Michael Krog - Object Oriented Programming
 11. Rachael D - What is this VIM you speak of?
 12. Client side security + hacking
 13. Sally - Haefling ES6
