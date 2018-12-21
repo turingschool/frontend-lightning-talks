@@ -26,7 +26,7 @@
 2.  Javascript `this` binding
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
-5.  Web scrapers - the what, the why, the how
+5.  justin -- Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
 7.  Raechel O - CSS positioning - all the techniques, pros/cons, results
 8.  Michael King-Stockton - Media queries - screens + beyond
@@ -41,7 +41,7 @@
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
 19. React - what and why?
-20. Justin -- Front End Hip - how to stay in the know on all the things
+20. Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 22. Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
