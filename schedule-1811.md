@@ -50,7 +50,7 @@
 26. Liz - CSS Styleguides
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
-29. Algorithms or die - top algorithms programmers should know
+29. Mason - Algorithms or die - top algorithms programmers should know
 30. Tim Miller - Hacking the FE interview
 31. Mariel Waters - Accessibility & Human Rights: Why and How
 ```
