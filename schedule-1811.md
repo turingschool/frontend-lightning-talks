@@ -36,7 +36,7 @@
 12. Taylor - Client side security + hacking
 13. Sally - Haefling ES6
 14. D3 library
-15. HTML Canvas
+15. niraj-aryal: HTML Canvas
 16. Jacob Admire -- SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
