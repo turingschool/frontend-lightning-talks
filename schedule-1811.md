@@ -53,6 +53,7 @@
 29. Mason - Algorithms or die - top algorithms programmers should know
 30. Tim Miller - Hacking the FE interview
 31. Mariel Waters - Accessibility & Human Rights: Why and How
+32. Michael Krog - Javascript a love hate relationship.
 ```
 
 ---
