@@ -27,12 +27,12 @@
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 5.  Web scrapers - the what, the why, the how
-Lynne Rang 6.  Accessibility do’s and don’ts and/or deep dive
+6. Lynne Rang: Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond
 9.  Javscript - closures
 10. Object Oriented Programming
-11. What is this VIM you speak of?
+11. Matthew Kaplan: What is this VIM you speak of?
 12. Max Silver: Client side security + hacking
 13. ES6
 14. D3 library
