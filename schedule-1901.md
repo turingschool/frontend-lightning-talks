@@ -26,7 +26,7 @@
 2.  Tiffany Bacher - Javascript `this` binding
 3.  Aidan : Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
-5.  Web scrapers - the what, the why, the how
+5.  Mark R. Collins — Web scrapers - the what, the why, the how
 6. Lynne Rang: Accessibility do’s and don’ts and/or deep dive
 7. Emily Dittmer: CSS positioning - all the techniques, pros/cons, results
 8.  Menashe: Media queries - screens + beyond
