@@ -35,7 +35,7 @@
 11. Matthew Kaplan: What is this VIM you speak of?
 12. Max Silver: Client side security + hacking
 13. Kevin Krato - ES6
-14. D3 library
+14. Erik Konner D3 library
 15. HTML Canvas- Lauren
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
