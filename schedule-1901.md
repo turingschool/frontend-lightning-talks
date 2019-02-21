@@ -49,7 +49,7 @@
 25. Colby Allen-WTF Webpack? And why do I care?
 26. Joe Johnson: CSS Styleguides
 27. Linters - what, why, how, types?
-28. Take your `git` foo to the next level
+28. Patrick Goulding - Take your `git` foo to the next level
 29. Jacob Bogart: Algorithms or die - top algorithms programmers should know
 30. Melissa - Hacking the FE interview
 31. Jarrett - Cleaner code with <template>
