@@ -48,12 +48,13 @@
 24. Breaking the problem down + best pseudo coding practices
 25. Colby Allen-WTF Webpack? And why do I care?
 26. Joe Johnson: CSS Styleguides
-27. Kelly Zick: Gender Diversity in Tech -- Who What When Why?
-28. Take your `git` foo to the next level
+27. Linters - what, why, how, types?
+28. Patrick Goulding - Take your `git` foo to the next level
 29. Jacob Bogart: Algorithms or die - top algorithms programmers should know
 30. Melissa - Hacking the FE interview
 31. Jarrett - Cleaner code with <template>
 32. Ryan Barnett - Edsger Dijkstra
+33. Kelly Zick: Gender Diversity in Tech -- Who What When Why?
 ```
 
 ---
