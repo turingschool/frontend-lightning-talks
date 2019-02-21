@@ -54,6 +54,7 @@
 30. Melissa - Hacking the FE interview
 31. Jarrett - Cleaner code with <template>
 32. Ryan Barnett - Edsger Dijkstra
+33. Kelly Zick: Gender Diversity in Tech -- Who What When Why?
 ```
 
 ---
