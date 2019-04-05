@@ -31,7 +31,7 @@
 7.  Hindreen Fawzi Abdullah - CSS positioning - all the techniques, pros/cons, results 
 8.  Kayla Larson : Media queries - screens + beyond
 9.  Javscript - closures
-10. Object Oriented Programming
+10. Nathan Froehlich -- Object Oriented Programming
 11. Jon ODrobinak - What is this VIM you speak of?
 12. David Engel - Client side security + hacking
 13. ES6
