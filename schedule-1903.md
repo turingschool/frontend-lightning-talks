@@ -23,7 +23,7 @@
 ### Topic Selection List
 ```
 1.  Antonio Fry - CSS relative units of measure: ems, rems, percentages, viewport measures
-2.  Javascript `this` binding
+2.  Brandy - Javascript `this` binding
 3.  Edward Cheatham: Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
 5.  Web scrapers - the what, the why, the how
