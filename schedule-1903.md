@@ -34,7 +34,7 @@
 10. Nathan Froehlich -- Object Oriented Programming
 11. Jon ODrobinak - What is this VIM you speak of?
 12. David Engel - Client side security + hacking
-13. ES6
+13. Evan Markowitz - ES6
 14. D3 library
 15. HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
