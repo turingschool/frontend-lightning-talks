@@ -36,7 +36,7 @@
 12. David Engel - Client side security + hacking
 13. Steve Rumizen: ES6
 14. D3 library
-15. HTML Canvas
+15. Evan Markowitz - HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
