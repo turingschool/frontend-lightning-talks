@@ -40,7 +40,7 @@
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
-19. React - what and why?
+19. Ebenezer Jay Ingalsbe: React - what and why?
 Taylor <3 20. Front End Hip - how to stay in the know on all the things
 21. Emily Lalonde: Pairing approaches - all the types and pros/cons
 22. Tips for crafting your “Developer Identity”
