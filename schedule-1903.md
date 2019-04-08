@@ -53,6 +53,7 @@ Taylor <3 20. Front End Hip - how to stay in the know on all the things
 29. Algorithms or die - top algorithms programmers should know
 30. Jev Forsberg - Hacking the FE interview
 31. Building the Minimum Viable Product - Patrick Goulding
+32. Katie Williams: CSS and Typography
 ```
 
 ---
