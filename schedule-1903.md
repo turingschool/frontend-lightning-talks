@@ -54,7 +54,8 @@ Taylor <3 20. Front End Hip - how to stay in the know on all the things
 30. Jev Forsberg - Hacking the FE interview
 31. Building the Minimum Viable Product - Patrick Goulding
 32. Katie Williams: CSS and Typography
-33. Alek Aker: AI breakpoints: when we will get there and why its important.
+33. Ryan Flachman: Using Agile in Waterfall fields
+34. Alek Aker: AI breakpoints: when we will get there and why its important.
 ```
 
 ---
