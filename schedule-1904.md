@@ -46,7 +46,7 @@
 22. Amy Rippeto - Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 24. Breaking the problem down + best pseudo coding practices
-25. WTF Webpack? And why do I care?
+25. Garrett Iannuzzi: WTF Webpack? And why do I care?
 26. CSS Styleguides
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
