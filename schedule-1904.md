@@ -30,7 +30,7 @@
 6.  Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond
-9.  Javscript - closures
+9.  Colin - Javscript - closures
 10. Brandy - Object Oriented Programming
 11. Gregory Anderson - What is this VIM you speak of?
 12. Noah Gibson - Client side security + hacking
