@@ -31,7 +31,7 @@
 7.  CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond
 9.  Javscript - closures
-10. Object Oriented Programming
+10. Brandy - Object Oriented Programming
 11. Gregory Anderson - What is this VIM you speak of?
 12. Client side security + hacking
 13. ES6---Edward Cheatham
