@@ -35,7 +35,7 @@
 11. Gregory Anderson - What is this VIM you speak of?
 12. Noah Gibson - Client side security + hacking
 13. ES6---Edward Cheatham
-14. D3 library
+14. D3 library Yana Aleksandrova
 15. Eric - HTML Canvas
 16. Brianna DelValle: SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
