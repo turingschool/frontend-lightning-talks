@@ -33,7 +33,7 @@
 9.  Javscript - closures
 10. Brandy - Object Oriented Programming
 11. Gregory Anderson - What is this VIM you speak of?
-12. Client side security + hacking
+12. Noah Gibson - Client side security + hacking
 13. ES6---Edward Cheatham
 14. D3 library
 15. HTML Canvas
