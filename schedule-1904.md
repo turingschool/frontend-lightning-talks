@@ -25,7 +25,7 @@
 1.  Jessie: CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Naomi Campos: Javascript `this` binding
 3.  Javscript function prototypes
-4.  Yana Aleksandrova: jQuery chaining - the good, the bad, the ugly 
+4.  jQuery chaining - the good, the bad, the ugly 
 5.  Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
 7.  CSS positioning - all the techniques, pros/cons, results
@@ -35,7 +35,7 @@
 11. Gregory Anderson - What is this VIM you speak of?
 12. Noah Gibson - Client side security + hacking
 13. ES6---Edward Cheatham
-14. D3 library Yana Aleksandrova
+14. Yana Aleksandrova: D3 library
 15. Eric - HTML Canvas
 16. Brianna DelValle: SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
