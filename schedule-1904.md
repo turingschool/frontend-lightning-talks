@@ -22,7 +22,7 @@
 
 ### Topic Selection List
 ```
-1.  CSS relative units of measure: ems, rems, percentages, viewport measures
+1.  Jessie: CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Naomi Campos: Javascript `this` binding
 3.  Javscript function prototypes
 4.  Yana Aleksandrova: jQuery chaining - the good, the bad, the ugly 
