@@ -53,6 +53,7 @@
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
 31.Lacy Rudd: An Introduction to SEO and It Why It Matters to Junior Developers. 
+32.Amanda Sierra -- Sprinting
 ```
 
 ---
