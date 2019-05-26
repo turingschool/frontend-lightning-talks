@@ -54,6 +54,7 @@
 30. Hacking the FE interview
 31.Lacy Rudd: An Introduction to SEO and It Why It Matters to Junior Developers. 
 32.Amanda Sierra -- Sprinting
+33. Djavan Munroe 'Fun with Typescript'
 ```
 
 ---
