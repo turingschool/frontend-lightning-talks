@@ -24,7 +24,7 @@
 ```
 1.  Jessie: CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Naomi Campos: Javascript `this` binding
-3.  Chris--Javscript function prototypes
+3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly 
 5.  Web scrapers - the what, the why, the how
 6.  Julian: Accessibility do’s and don’ts and/or deep dive
@@ -55,6 +55,7 @@
 31.Lacy Rudd: An Introduction to SEO and It Why It Matters to Junior Developers. 
 32.Amanda Sierra -- Sprinting
 33. Djavan Munroe 'Fun with Typescript'
+34. Chris Lane -- CSS Animations
 ```
 
 ---
