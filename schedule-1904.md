@@ -38,7 +38,7 @@
 14. Yana Aleksandrova: D3 library
 15. Eric - HTML Canvas
 16. Brianna DelValle: SVGs - all about them, how to use them, when to use them
-17. Samantha Freeman: Acceptance testing - what and why?
+17. Acceptance testing - what and why?
 18. Jacob: CSS optimization - easy wins and gotchas
 19. Emily Lalonde: React - what and why?
 20. Alyssa Lundgren: Front End Hip - how to stay in the know on all the things
@@ -55,6 +55,7 @@
 31.Lacy Rudd: An Introduction to SEO and It Why It Matters to Junior Developers. 
 32.Amanda Sierra -- Sprinting
 33. Djavan Munroe 'Fun with Typescript'
+34. Samantha Freeman: BEM/SMACSS - What and Why?
 ```
 
 ---
