@@ -22,7 +22,7 @@
 
 ### Topic Selection List
 ```
-1.  CSS relative units of measure: ems, rems, percentages, viewport measures
+1.  CSS relative units of measure: ems, rems, percentages, viewport measures - Jesse Maxim - CSS relative units of measure: ems, rems, percentages, viewport measures
 2.  Javascript `this` binding
 3.  Javscript function prototypes
 4.  jQuery chaining - the good, the bad, the ugly
@@ -34,13 +34,13 @@
 10. Object Oriented Programming
 11. What is this VIM you speak of?
 12. Client side security + hacking
-13. ES6
+13. Allison Wagner - ES6
 14. D3 library
 15. HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
-19. Noah: React - what and why?
+19. Matthew - React - what and why?
 20. Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 22. Tips for crafting your “Developer Identity”
@@ -52,6 +52,7 @@
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
+31. Noah: CSS Animations
 ```
 
 ---
