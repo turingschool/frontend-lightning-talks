@@ -38,7 +38,7 @@
 14. D3 library
 15. HTML Canvas
 16. Chris: SVGs - all about them, how to use them, when to use them
-17. Acceptance testing - what and why?
+17. Peerat: Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
 19. Matthew - React - what and why?
 20. Front End Hip - how to stay in the know on all the things
