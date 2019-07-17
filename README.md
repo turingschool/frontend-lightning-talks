@@ -52,7 +52,7 @@
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
 30. Hacking the FE interview
-31. 
+31. CSS Animations
 32. SASS
 33. Statically typed vs. Dynamically typed languages
 34. Localization and/or Internationalization
