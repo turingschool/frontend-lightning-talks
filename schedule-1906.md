@@ -32,7 +32,7 @@
 8.  Media queries - screens + beyond
 9.  Javscript - closures
 10. Vanessa: Object Oriented Programming
-11. What is this VIM you speak of?
+11. Sara Karsh : What is this VIM you speak of?
 12. Client side security + hacking
 13. Allison Wagner - ES6
 14. D3 library
