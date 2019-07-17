@@ -34,13 +34,13 @@
 10. Object Oriented Programming
 11. What is this VIM you speak of?
 12. Client side security + hacking
-13. ES6
+13. ES6 Zoë Ketcham-Harvey
 14. D3 library
 15. HTML Canvas
 16. SVGs - all about them, how to use them, when to use them
 17. Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
-19. React - what and why?
+19. React - what and why? 
 20. Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 22. Tips for crafting your “Developer Identity”
@@ -50,7 +50,7 @@
 26. CSS Styleguides
 27. Linters - what, why, how, types?
 28. Take your `git` foo to the next level
-29. Algorithms or die - top algorithms programmers should know
+29. Algorithms or die - top algorithms programmers should know 
 30. Hacking the FE interview
 ```
 
