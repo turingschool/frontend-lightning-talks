@@ -5,8 +5,8 @@
 * Everyone in Module 1 is required to give a lightning talk.
 * A lightning talk is 5 minutes long. We'll time you, and we will have a cut off at 5 minutes. We suggest you run through your talk at least once to make sure you have enough time to cover the content!
 * Presentations are in front of the class.
-* You may select a topic from the list provided below. 
-* If you'd like to propose an alternate topic, let instructors know. Alternate topics require instructor approval. 
+* You may select a topic from the list provided below.
+* If you'd like to propose an alternate topic, let instructors know. Alternate topics require instructor approval.
 * Topics are first come first serve basis.
 
 ---
@@ -58,11 +58,11 @@
 
 ### How To
 
-1. Fork this repository 
-2. Edit the `schedule-1904.md` file by inserting your topic next to your name. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation. 
+1. Fork this repository
+2. Edit the `schedule-1906.md` file by inserting your topic next to your name. Presentations start at the beginning of the allotted block in the calendar and we'll roll through each presentation. 
 
 	```
-	- Penelope: History of Women In Tech 
+	- Penelope: History of Women In Tech
 	```
 
 3. Submit a Pull Request *to this repository* (not your forked repo), titled like so: `FirstName LastName: Title of Talk`
@@ -71,8 +71,8 @@
 
 4. At some point before the day of your lightning talk, touch base with your instructors to run through your content. **You** are responsible for reaching out to schedule this. It is not required to physically meet (unless you'd like) - An outline of your talk via Slack is sufficient for approval.
 
----- 
+----
 
-### Resources 
+### Resources
 * [Rails Conf Lightning Talk Videos](https://www.youtube.com/watch?v=DHHHnPwSY5I)
-	- Check out the collection of videos from Rails Conf for insight on what lightning talks look/feel like. 
+	- Check out the collection of videos from Rails Conf for insight on what lightning talks look/feel like.
