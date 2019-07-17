@@ -56,7 +56,7 @@
 32. SASS
 33. Statically typed vs. Dynamically typed languages
 34. Localization and/or Internationalization
-35. Recusion
+35. Recursion
 ```
 
 ---
