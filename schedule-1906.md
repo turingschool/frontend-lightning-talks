@@ -58,7 +58,7 @@
 30. Hacking the FE interview
 31. Noah: CSS Animations
 32. SASS
-33. Statically typed vs. Dynamically typed languages
+33. Scott: Statically typed vs. Dynamically typed languages
 34. Localization and/or Internationalization
 35. Brady: Recursion
 36. Quinne: The Golden Ratio
