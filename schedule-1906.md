@@ -41,7 +41,7 @@
 17. Peerat: Acceptance testing - what and why?
 18. CSS optimization - easy wins and gotchas
 19. Matthew - React - what and why?
-20. Front End Hip - how to stay in the know on all the things
+20. Kate Malone - Front End Hip - how to stay in the know on all the things
 21. Pairing approaches - all the types and pros/cons
 22. Annie - Tips for crafting your “Developer Identity”
 23. Team collaboration: github/PR etiquette, good workflows, best practices
