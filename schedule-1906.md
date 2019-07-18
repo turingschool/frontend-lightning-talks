@@ -61,6 +61,7 @@
 33. Statically typed vs. Dynamically typed languages
 34. Localization and/or Internationalization
 35. Brady: Recursion
+36. Quinne: The Golden Ratio
 ```
 
 ---
