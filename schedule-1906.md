@@ -55,7 +55,7 @@
 27. Pol: Linters - what, why, how, types?
 28. Elyse: Take your `git` foo to the next level
 29. Foster: Algorithms or die - top algorithms programmers should know
-30. Hacking the FE interview
+30. Sam: Hacking the FE interview
 31. Noah: CSS Animations
 32. SASS
 33. Scott: Statically typed vs. Dynamically typed languages
