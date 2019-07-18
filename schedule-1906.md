@@ -26,7 +26,7 @@
 2.  Javascript `this` binding
 3.  Javscript function prototypes
 4.  Garrett: jQuery chaining - the good, the bad, the ugly
-5.  Web scrapers - the what, the why, the how
+5.  Eric: Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
 7.  Edwin CSS positioning - all the techniques, pros/cons, results
 8.  Media queries - screens + beyond
