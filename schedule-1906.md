@@ -29,7 +29,7 @@
 5.  Eric: Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
 7.  Edwin CSS positioning - all the techniques, pros/cons, results
-8.  Media queries - screens + beyond
+8.  Eduardo: Media queries - screens + beyond
 9.  Mike: Javscript - closures
 10. Vanessa: Object Oriented Programming
 11. Sara Karsh : What is this VIM you speak of?
