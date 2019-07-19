@@ -48,11 +48,9 @@
 24. Naomi - Breaking the problem down + best pseudo coding practices
 25. - Kirk Veitch : WTF Webpack? And why do I care?
 26. CSS Styleguides
-27. Linters - what, why, how, types? -Brady
-28. Take your `git` foo to the next level
-29. Zoë Ketcham-Harvey: Algorithms or die - top algorithms programmers should know
 27. Pol: Linters - what, why, how, types?
 28. Elyse: Take your `git` foo to the next level
+29. Zoë Ketcham-Harvey: Algorithms or die - top algorithms programmers should know
 29. Foster: Algorithms or die - top algorithms programmers should know
 30. Sam: Hacking the FE interview
 31. Noah: CSS Animations
