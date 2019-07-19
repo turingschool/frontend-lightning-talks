@@ -62,6 +62,7 @@
 34. Localization and/or Internationalization
 35. Brady: Recursion
 36. Quinne: The Golden Ratio
+37. Jeannie: Accessibility
 ```
 
 ---
