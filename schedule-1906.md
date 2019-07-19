@@ -50,7 +50,7 @@
 26. CSS Styleguides
 27. Linters - what, why, how, types? -Brady
 28. Take your `git` foo to the next level
-29. Algorithms or die - top algorithms programmers should know
+29. Zoë Ketcham-Harvey: Algorithms or die - top algorithms programmers should know
 27. Pol: Linters - what, why, how, types?
 28. Elyse: Take your `git` foo to the next level
 29. Foster: Algorithms or die - top algorithms programmers should know
