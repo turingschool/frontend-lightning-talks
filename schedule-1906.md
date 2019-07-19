@@ -35,7 +35,7 @@
 11. Sara Karsh : What is this VIM you speak of?
 12. Victor : Client side security + hacking
 13. Allison Wagner - ES6
-14. D3 library
+14. Roger Hughes - D3 library
 15. HTML Canvas
 16. Chris: SVGs - all about them, how to use them, when to use them
 17. Peerat: Acceptance testing - what and why?
@@ -48,7 +48,6 @@
 24. Breaking the problem down + best pseudo coding practices
 25. - Kirk Veitch : WTF Webpack? And why do I care?
 26. CSS Styleguides
-
 27. Linters - what, why, how, types? -Brady
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
