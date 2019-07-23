@@ -60,6 +60,7 @@
 35. Brady: Recursion
 36. Quinne: The Golden Ratio
 37. Jeannie: Accessibility
+38. Zoë: Github and the new tech resume
 ```
 
 ---
