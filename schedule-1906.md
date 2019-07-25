@@ -28,7 +28,7 @@
 4.  Garrett: jQuery chaining - the good, the bad, the ugly
 5.  Eric: Web scrapers - the what, the why, the how
 6.  Accessibility do’s and don’ts and/or deep dive
-7.  Edwin CSS positioning - all the techniques, pros/cons, results
+7.  CSS positioning - all the techniques, pros/cons, results
 8.  Eduardo: Media queries - screens + beyond
 9.  Mike: Javscript - closures
 10. Vanessa: Object Oriented Programming
@@ -54,7 +54,7 @@
 29. Foster: Algorithms or die - top algorithms programmers should know
 30. Sam: Hacking the FE interview
 31. Noah: CSS Animations
-32. SASS
+32. Edwin: SASS
 33. Scott: Statically typed vs. Dynamically typed languages
 34. Localization and/or Internationalization
 35. Brady: Recursion
